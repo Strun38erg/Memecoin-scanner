@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "ethereum-block-by-date": "^1.4.9"
+  }
+}
