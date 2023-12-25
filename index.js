@@ -1,6 +1,7 @@
 require('dotenv').config();
 const Web3 = require('web3');
 
+console.log(`Connecting to Infura: ${process.env.INFURA_API_KEY}`);
 // Connect to the Ethereum node using the Infura API key from .env
 const web3 = new Web3(`https://mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`);
 
