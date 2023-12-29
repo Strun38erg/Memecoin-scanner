@@ -1,0 +1,2702 @@
+{
+  "0xbd4fecd9337d22514fdd6d7fbeb9155cf8d790b1": {
+    "totalAmountUSD": 176943.99029073003,
+    "totalTokenAmount": 638503848854,
+    "firstPurchaseTimestamp": 1682555555,
+    "count": 87
+  },
+  "0x555b6ee8fab3dfdbcca9121721c435fd4c7a1fd1": {
+    "totalAmountUSD": 268086.05220425804,
+    "totalTokenAmount": -513592979269.16766,
+    "firstPurchaseTimestamp": 1682583623,
+    "count": 28
+  },
+  "0x81153f0889ab398c4acb42cb58b565a5392bba95": {
+    "totalAmountUSD": 332296.3809480654,
+    "totalTokenAmount": 1233089670883.506,
+    "firstPurchaseTimestamp": 1682579207,
+    "count": 109
+  },
+  "0x39d3398f11e25102c074c8784fff5bd5d28a5e58": {
+    "totalAmountUSD": 47404.04913333778,
+    "totalTokenAmount": -178551599362.34122,
+    "firstPurchaseTimestamp": 1682592275,
+    "count": 11
+  },
+  "0x74de5d4fcbf63e00296fd95d33236b9794016631": {
+    "totalAmountUSD": 236989.38998977692,
+    "totalTokenAmount": -870464558535.8779,
+    "firstPurchaseTimestamp": 1682554847,
+    "count": 55
+  },
+  "0xbfafa5d09ff78e64d19637b2b3d5e6d5b03c74f0": {
+    "totalAmountUSD": 12339.077799200499,
+    "totalTokenAmount": -39390088699.2572,
+    "firstPurchaseTimestamp": 1682718191,
+    "count": 3
+  },
+  "0x99999999d116ffa7d76590de2f427d8e15aeb0b8": {
+    "totalAmountUSD": 201230.69402814255,
+    "totalTokenAmount": -571180298332.6825,
+    "firstPurchaseTimestamp": 1682563271,
+    "count": 33
+  },
+  "0xaa4ae5522705fc9181ed2245136f5c0d1455323f": {
+    "totalAmountUSD": 4815.468181340249,
+    "totalTokenAmount": -18503875493.281662,
+    "firstPurchaseTimestamp": 1682622611,
+    "count": 1
+  },
+  "0xd05b9d5584491645ae09310fb9273a4a7a6170b6": {
+    "totalAmountUSD": 52095.630564650295,
+    "totalTokenAmount": -190702879204,
+    "firstPurchaseTimestamp": 1682558255,
+    "count": 26
+  },
+  "0x06d689952471c4971ba71aaf7280c7cb894f1b4f": {
+    "totalAmountUSD": 17154.12924629943,
+    "totalTokenAmount": -60000000000,
+    "firstPurchaseTimestamp": 1682661923,
+    "count": 3
+  },
+  "0x19638675c31db114adc747829b9ad3eda167e5c5": {
+    "totalAmountUSD": 39417.21379020013,
+    "totalTokenAmount": -145285595471.5519,
+    "firstPurchaseTimestamp": 1682639651,
+    "count": 8
+  },
+  "0x25f5be5b2fef4831d8b1ba6e870e528a8f8d7a02": {
+    "totalAmountUSD": 3816.3966938139106,
+    "totalTokenAmount": -17130333295.416063,
+    "firstPurchaseTimestamp": 1682562095,
+    "count": 1
+  },
+  "0x4870525eae23fceb31df613d179ef6275e1b93a9": {
+    "totalAmountUSD": 66736.55472542923,
+    "totalTokenAmount": 252798954596.31943,
+    "firstPurchaseTimestamp": 1682578919,
+    "count": 16
+  },
+  "0xaea70f9f570b285d31a8a26cde07d09c67a57970": {
+    "totalAmountUSD": 2275.909993083506,
+    "totalTokenAmount": -8580593121.173143,
+    "firstPurchaseTimestamp": 1682647955,
+    "count": 1
+  },
+  "0xec3cd9a2c0cbdfa56d0ba99746954ae8134b4d32": {
+    "totalAmountUSD": 44294.25591625388,
+    "totalTokenAmount": -152718310042.47513,
+    "firstPurchaseTimestamp": 1682663231,
+    "count": 9
+  },
+  "0x5f746d98b7c6585cb562e99cadde7f2f259f1dd1": {
+    "totalAmountUSD": 2877.5777981970136,
+    "totalTokenAmount": -10293970458.116081,
+    "firstPurchaseTimestamp": 1682671175,
+    "count": 1
+  },
+  "0x8700eb9899d773a251e434746b94b49e25a85eca": {
+    "totalAmountUSD": 49560.02974347425,
+    "totalTokenAmount": -189806482492.3705,
+    "firstPurchaseTimestamp": 1682561903,
+    "count": 13
+  },
+  "0x0000cd00001700b10049dfc947103e00e1c62683": {
+    "totalAmountUSD": 333352.2036390576,
+    "totalTokenAmount": -330971014914.8363,
+    "firstPurchaseTimestamp": 1682643707,
+    "count": 21
+  },
+  "0xf2445e7f77f334c536ce984820f5db5efec38e37": {
+    "totalAmountUSD": 335604.2770645403,
+    "totalTokenAmount": 484962855301.49994,
+    "firstPurchaseTimestamp": 1682556191,
+    "count": 52
+  },
+  "0x280027dd00ee0050d3f9d168efd6b40090009246": {
+    "totalAmountUSD": 85413.80179903524,
+    "totalTokenAmount": 268222732220.04672,
+    "firstPurchaseTimestamp": 1682579147,
+    "count": 23
+  },
+  "0x5c82185a70b321e54e2938f3a2abef2639e0e646": {
+    "totalAmountUSD": 20004.845657430407,
+    "totalTokenAmount": -61053102108.5827,
+    "firstPurchaseTimestamp": 1682720315,
+    "count": 2
+  },
+  "0x6b3086bcb5ad3c5cf67380c22132f21de8009ffd": {
+    "totalAmountUSD": 15438.066535905342,
+    "totalTokenAmount": -54738248300.49588,
+    "firstPurchaseTimestamp": 1682633699,
+    "count": 2
+  },
+  "0xb421e5fbbacd1fd02b29cb4ae0ef5695a64e2c20": {
+    "totalAmountUSD": 3768.3454985240423,
+    "totalTokenAmount": -14683193474.581902,
+    "firstPurchaseTimestamp": 1682694683,
+    "count": 1
+  },
+  "0x50e01433711f0cde93d09856405f64a579fa5244": {
+    "totalAmountUSD": 8704.603619708734,
+    "totalTokenAmount": -36021364899.422165,
+    "firstPurchaseTimestamp": 1682567351,
+    "count": 2
+  },
+  "0x5b7cdd3ead9f61a0b4eede5992a25e4400fb2d03": {
+    "totalAmountUSD": 13011.463062800161,
+    "totalTokenAmount": -40683915411.367584,
+    "firstPurchaseTimestamp": 1682722751,
+    "count": 1
+  },
+  "0x5c3c39108c5a46463827c2349568d408d1f5092b": {
+    "totalAmountUSD": 8522.455552999716,
+    "totalTokenAmount": -32523718813.0974,
+    "firstPurchaseTimestamp": 1682649803,
+    "count": 2
+  },
+  "0x13422774d8416a316390f5aa2e713c5742592aaf": {
+    "totalAmountUSD": 37592.83402182912,
+    "totalTokenAmount": -138125038887.2528,
+    "firstPurchaseTimestamp": 1682617139,
+    "count": 8
+  },
+  "0xd6832f7046c9fadd1740dca00a1b366d8279c3c2": {
+    "totalAmountUSD": 12882.725719471011,
+    "totalTokenAmount": -45536634336.30235,
+    "firstPurchaseTimestamp": 1682623739,
+    "count": 3
+  },
+  "0xe60aacb4269e11a8a99b87c95444f7bfad3e80af": {
+    "totalAmountUSD": 6145.831627103673,
+    "totalTokenAmount": -22361384762.359737,
+    "firstPurchaseTimestamp": 1682623775,
+    "count": 1
+  },
+  "0x00000000a991c429ee2ec6df19d40fe0c80088b8": {
+    "totalAmountUSD": 587794.1519360614,
+    "totalTokenAmount": -111243.04048728943,
+    "firstPurchaseTimestamp": 1682564267,
+    "count": 60
+  },
+  "0x017c194d0861ecfacf4f0d730358fa02bfe721f1": {
+    "totalAmountUSD": 40492.96434245362,
+    "totalTokenAmount": -148164828644.46548,
+    "firstPurchaseTimestamp": 1682623439,
+    "count": 11
+  },
+  "0x92abc2165bb4e23da156035a228b7293497f0690": {
+    "totalAmountUSD": 36195.485057101505,
+    "totalTokenAmount": -110387599917.99657,
+    "firstPurchaseTimestamp": 1682721035,
+    "count": 4
+  },
+  "0xa87bba4d898e570bc4a2b42553978f3879e7a13d": {
+    "totalAmountUSD": 2278.157041408127,
+    "totalTokenAmount": -7591624294.392764,
+    "firstPurchaseTimestamp": 1682712539,
+    "count": 1
+  },
+  "0xeef2a73ae4ec95d4c86b7ef808e8d37b3b5653ac": {
+    "totalAmountUSD": 3919.2014830849207,
+    "totalTokenAmount": -15000000000,
+    "firstPurchaseTimestamp": 1682688647,
+    "count": 1
+  },
+  "0x00000000003b3cc22af3ae1eac0440bcee416b40": {
+    "totalAmountUSD": 1237627.1834300172,
+    "totalTokenAmount": 2903.2129516601562,
+    "firstPurchaseTimestamp": 1682577395,
+    "count": 26
+  },
+  "0x0c3de458b51a11da7d4616f42f66c861e3859d3e": {
+    "totalAmountUSD": 26678.97669435437,
+    "totalTokenAmount": 89930461213.35475,
+    "firstPurchaseTimestamp": 1682648459,
+    "count": 11
+  },
+  "0x504f9de33bbc561bc93c065ff10236660ed9c785": {
+    "totalAmountUSD": 3723.102043825576,
+    "totalTokenAmount": -14416698174.801165,
+    "firstPurchaseTimestamp": 1682649179,
+    "count": 1
+  },
+  "0x9b14f29fb2fad4b01f520e914ed353ae559065d7": {
+    "totalAmountUSD": 5979.508871589275,
+    "totalTokenAmount": -19373812145.790356,
+    "firstPurchaseTimestamp": 1682718179,
+    "count": 1
+  },
+  "0x1136b25047e142fa3018184793aec68fbb173ce4": {
+    "totalAmountUSD": 600399.4629794033,
+    "totalTokenAmount": 1336623897054.6584,
+    "firstPurchaseTimestamp": 1682554367,
+    "count": 73
+  },
+  "0x1fa4ff44467c030a95a2c44ff52ce284b0c15d11": {
+    "totalAmountUSD": 3498.153515052088,
+    "totalTokenAmount": -14695675265.676138,
+    "firstPurchaseTimestamp": 1682590139,
+    "count": 1
+  },
+  "0x7908977e1a0daed9e57b2639620bc39a896f02e0": {
+    "totalAmountUSD": 2493.795775464953,
+    "totalTokenAmount": -10979921374.243818,
+    "firstPurchaseTimestamp": 1682600075,
+    "count": 1
+  },
+  "0x87e6f8e9e6aa0f4cf77c0b5c8310ea10b3d2b84b": {
+    "totalAmountUSD": 5757.929898717213,
+    "totalTokenAmount": -20343864312.858364,
+    "firstPurchaseTimestamp": 1682669315,
+    "count": 1
+  },
+  "0x65a8ce36ba6a940809a67dbf30692e7395332447": {
+    "totalAmountUSD": 8320.897974061809,
+    "totalTokenAmount": -30697349280.039055,
+    "firstPurchaseTimestamp": 1682654063,
+    "count": 2
+  },
+  "0xb27c40416a65694a7bd6e4f456202508a66fc6c2": {
+    "totalAmountUSD": 8214.117095794343,
+    "totalTokenAmount": -30153991056.444195,
+    "firstPurchaseTimestamp": 1682555639,
+    "count": 3
+  },
+  "0xe1aa41fa8eff5ea588492e1396cdde3980c4b974": {
+    "totalAmountUSD": 4649.647637997846,
+    "totalTokenAmount": -20102621254.4507,
+    "firstPurchaseTimestamp": 1682613035,
+    "count": 1
+  },
+  "0x561667dcf81a73a01bd38c47f20d6ce9ff12307a": {
+    "totalAmountUSD": 4176.621242581566,
+    "totalTokenAmount": -14020078490.289965,
+    "firstPurchaseTimestamp": 1682712443,
+    "count": 1
+  },
+  "0x26439aeb008d63b6686798b5f08a84c7abefbd80": {
+    "totalAmountUSD": 2750.9404699724,
+    "totalTokenAmount": -9000000000,
+    "firstPurchaseTimestamp": 1682712767,
+    "count": 1
+  },
+  "0x43817a1c41a869882663e88819ce91eb33f171c3": {
+    "totalAmountUSD": 3169.3721842303266,
+    "totalTokenAmount": -14358915356.462996,
+    "firstPurchaseTimestamp": 1682565083,
+    "count": 1
+  },
+  "0xee8f5c215e5612a8e42a4b26ba71de8536ab9973": {
+    "totalAmountUSD": 2483.430455189024,
+    "totalTokenAmount": -9077617601.254427,
+    "firstPurchaseTimestamp": 1682656559,
+    "count": 1
+  },
+  "0x000000000005af2ddc1a93a03e9b7014064d3b8d": {
+    "totalAmountUSD": 309276.8250375868,
+    "totalTokenAmount": 40357972824.65445,
+    "firstPurchaseTimestamp": 1682576159,
+    "count": 23
+  },
+  "0x27e2c440f53e94ee960c5d075eeda3ff8c600d77": {
+    "totalAmountUSD": 10331.39390125782,
+    "totalTokenAmount": -40000000000,
+    "firstPurchaseTimestamp": 1682626715,
+    "count": 2
+  },
+  "0x49aa6e5e433d793144d8d5e477ace767e4ac2e6e": {
+    "totalAmountUSD": 46751.80600807694,
+    "totalTokenAmount": -154181457588.69574,
+    "firstPurchaseTimestamp": 1682584835,
+    "count": 5
+  },
+  "0xe8c060f8052e07423f71d445277c61ac5138a2e5": {
+    "totalAmountUSD": 206607.25208294892,
+    "totalTokenAmount": 142120704859.74097,
+    "firstPurchaseTimestamp": 1682577863,
+    "count": 8
+  },
+  "0x778897b8c1f285c431edc54a43f00b3042429f01": {
+    "totalAmountUSD": 2673.2715135618864,
+    "totalTokenAmount": -9712978277.385044,
+    "firstPurchaseTimestamp": 1682619407,
+    "count": 1
+  },
+  "0xcbbea7ec33d60db283ab79bdac9ffbfa46a83134": {
+    "totalAmountUSD": 5932.052451973487,
+    "totalTokenAmount": -19610119867.743954,
+    "firstPurchaseTimestamp": 1682716055,
+    "count": 1
+  },
+  "0xc750359cba44ad5214f0ccd99900b99099dc92f1": {
+    "totalAmountUSD": 7125.623932558752,
+    "totalTokenAmount": -21857376635.602806,
+    "firstPurchaseTimestamp": 1682718659,
+    "count": 3
+  },
+  "0x87b8dca955f12e213b0ee23decbdaaa6e207b3f6": {
+    "totalAmountUSD": 95768.72024661381,
+    "totalTokenAmount": -342820554844.10547,
+    "firstPurchaseTimestamp": 1682619011,
+    "count": 13
+  },
+  "0xd1acbe05a739c855f2c54f42f0f1e3df662da56d": {
+    "totalAmountUSD": 14751.526362633405,
+    "totalTokenAmount": 9359878736.056877,
+    "firstPurchaseTimestamp": 1682611955,
+    "count": 2
+  },
+  "0x2ba5ac691b0bbb8c1f12f8efd1c44fbe58275e81": {
+    "totalAmountUSD": 3884.8503965496616,
+    "totalTokenAmount": -15296804615.106873,
+    "firstPurchaseTimestamp": 1682621711,
+    "count": 1
+  },
+  "0x5b4435d17bbc936839fe72e5574bf29d7c92fc28": {
+    "totalAmountUSD": 2398.7112932351006,
+    "totalTokenAmount": -9108349531.374424,
+    "firstPurchaseTimestamp": 1682689211,
+    "count": 1
+  },
+  "0x3c40dd357a2ed4333df8271ee4d61146cd5afbf9": {
+    "totalAmountUSD": 5505.047420914023,
+    "totalTokenAmount": -17617004224.228603,
+    "firstPurchaseTimestamp": 1682718395,
+    "count": 1
+  },
+  "0x4b49a1be025090740667a6653e2ad6792f3c279d": {
+    "totalAmountUSD": 14615.942948011852,
+    "totalTokenAmount": -39688765450.02734,
+    "firstPurchaseTimestamp": 1682720939,
+    "count": 1
+  },
+  "0x3ae737018cfba37aff014661b04a6a82befa636d": {
+    "totalAmountUSD": 9626.531429915325,
+    "totalTokenAmount": -31572977883.630188,
+    "firstPurchaseTimestamp": 1682634167,
+    "count": 2
+  },
+  "0x15228e31edf5ec27eb8f4432d89daff0cd30919c": {
+    "totalAmountUSD": 23570.119526461596,
+    "totalTokenAmount": -88250000000,
+    "firstPurchaseTimestamp": 1682651267,
+    "count": 5
+  },
+  "0x2f0b0288fb22beedf7e4ad55ecf0a37848605df3": {
+    "totalAmountUSD": 32285.774092882457,
+    "totalTokenAmount": -114654734722.21822,
+    "firstPurchaseTimestamp": 1682614331,
+    "count": 8
+  },
+  "0x719bd3b422892033428cc9e034d3dfd55d7603c4": {
+    "totalAmountUSD": 2063.767493719569,
+    "totalTokenAmount": -7648378364.652122,
+    "firstPurchaseTimestamp": 1682631047,
+    "count": 1
+  },
+  "0x07ff87d3a7a1ef3e096a05ac498ef45ea6991b78": {
+    "totalAmountUSD": 5001.257678133078,
+    "totalTokenAmount": -18743494859.97136,
+    "firstPurchaseTimestamp": 1682682419,
+    "count": 1
+  },
+  "0xadce33705e0da77b2aeb9993d9b4ae5923de1fdf": {
+    "totalAmountUSD": 20884.90855970011,
+    "totalTokenAmount": -72873777464.121,
+    "firstPurchaseTimestamp": 1682710199,
+    "count": 3
+  },
+  "0xd14969938dbd45be356bffef350f6811d02332e1": {
+    "totalAmountUSD": 24360.971060087446,
+    "totalTokenAmount": -94422210225.59077,
+    "firstPurchaseTimestamp": 1682588123,
+    "count": 7
+  },
+  "0xec4c2516a11a891d7657e1a01590cd78d1f3dc70": {
+    "totalAmountUSD": 23331.451196309317,
+    "totalTokenAmount": -80006581516.51727,
+    "firstPurchaseTimestamp": 1682618951,
+    "count": 4
+  },
+  "0xcccf8ec7a448793e138cacf53df99a27e6bda849": {
+    "totalAmountUSD": 3815.330561753743,
+    "totalTokenAmount": -11113777665.098732,
+    "firstPurchaseTimestamp": 1682721251,
+    "count": 1
+  },
+  "0xaacef30f703a86b259c807812e4fed295ccb07ae": {
+    "totalAmountUSD": 19803.949587864532,
+    "totalTokenAmount": 68828411676.97507,
+    "firstPurchaseTimestamp": 1682617295,
+    "count": 5
+  },
+  "0x5c4a88006063f42836eb02efa17df81ef3ec216d": {
+    "totalAmountUSD": 9999.118677657789,
+    "totalTokenAmount": -38489536326.57661,
+    "firstPurchaseTimestamp": 1682641475,
+    "count": 2
+  },
+  "0xbd777a93d6ed36e9bea884230e0b629ad4c19333": {
+    "totalAmountUSD": 13243.687409119178,
+    "totalTokenAmount": -60000000000,
+    "firstPurchaseTimestamp": 1682568899,
+    "count": 3
+  },
+  "0x2a3837b830fd55b0a4b62677d89f54410cf5cba2": {
+    "totalAmountUSD": 13219.098859383934,
+    "totalTokenAmount": -50000000000,
+    "firstPurchaseTimestamp": 1682618663,
+    "count": 2
+  },
+  "0xd2498b4dc8402789736f7c94caf969ea65badfa2": {
+    "totalAmountUSD": 4757.018887630278,
+    "totalTokenAmount": -16591883391.27681,
+    "firstPurchaseTimestamp": 1682618687,
+    "count": 2
+  },
+  "0xf293d139397ec720c0420c44ddcb53cabc6d411a": {
+    "totalAmountUSD": 3846.1345039426915,
+    "totalTokenAmount": 17284851908.867302,
+    "firstPurchaseTimestamp": 1682556407,
+    "count": 1
+  },
+  "0x8664b714ee145f12f69c7146d99d717ae6c1a1f2": {
+    "totalAmountUSD": 14313.38388743082,
+    "totalTokenAmount": -42896484387.64941,
+    "firstPurchaseTimestamp": 1682720423,
+    "count": 1
+  },
+  "0xd482251cb88f2a58f207d7adea62c8be5c40c378": {
+    "totalAmountUSD": 16031.660610946758,
+    "totalTokenAmount": -59268811716.84964,
+    "firstPurchaseTimestamp": 1682621531,
+    "count": 4
+  },
+  "0xafe7d343d79abbf50c9501d07c35b10afc4b9fe7": {
+    "totalAmountUSD": 79345.9856219036,
+    "totalTokenAmount": -302614591747.725,
+    "firstPurchaseTimestamp": 1682649671,
+    "count": 3
+  },
+  "0xc924451ea49c7e744f186283457bfd275fbf15ef": {
+    "totalAmountUSD": 3077.733721429691,
+    "totalTokenAmount": -10876156840.860008,
+    "firstPurchaseTimestamp": 1682671379,
+    "count": 1
+  },
+  "0x633e09d4b1f589e818196260457f0b8029ee021a": {
+    "totalAmountUSD": 2501.767946668593,
+    "totalTokenAmount": -7774016149.575823,
+    "firstPurchaseTimestamp": 1682719055,
+    "count": 1
+  },
+  "0x39d0d6f4902fa755f28bf5f428a93a1da9ecc1a6": {
+    "totalAmountUSD": 3818.959305088409,
+    "totalTokenAmount": -14008204989.488201,
+    "firstPurchaseTimestamp": 1682619491,
+    "count": 1
+  },
+  "0x5bfef071dde2a2aaa7b8f1f209abac594c39b96a": {
+    "totalAmountUSD": 4003.883786441793,
+    "totalTokenAmount": -12162273402.090824,
+    "firstPurchaseTimestamp": 1682723975,
+    "count": 2
+  },
+  "0xca2ec01632b7604a33a29f70bf8494477c68d443": {
+    "totalAmountUSD": 16248.278207769823,
+    "totalTokenAmount": -63456689086.775116,
+    "firstPurchaseTimestamp": 1682559623,
+    "count": 3
+  },
+  "0x0de2dec9a23b21b737cc7da8225d1d4d002a9961": {
+    "totalAmountUSD": 18984.768981400946,
+    "totalTokenAmount": -72479655272.05545,
+    "firstPurchaseTimestamp": 1682623163,
+    "count": 2
+  },
+  "0x5519dca9838c6ce836aeb4b60fc03a1902b2f460": {
+    "totalAmountUSD": 2752.3528928074265,
+    "totalTokenAmount": -8493258253.704283,
+    "firstPurchaseTimestamp": 1682722295,
+    "count": 1
+  },
+  "0x89ffcd316f35556253b64aa85fee70b4ec79f514": {
+    "totalAmountUSD": 7716.4716901420215,
+    "totalTokenAmount": -33572583034.872414,
+    "firstPurchaseTimestamp": 1682614319,
+    "count": 2
+  },
+  "0xa84546e35b27933f83596838ee958615b7062196": {
+    "totalAmountUSD": 4802.926293840501,
+    "totalTokenAmount": -18515785718.423164,
+    "firstPurchaseTimestamp": 1682622683,
+    "count": 1
+  },
+  "0x155b899120b0622d7796deb9e8a31ce76ef184ab": {
+    "totalAmountUSD": 18983.336402262143,
+    "totalTokenAmount": -57910141182.94391,
+    "firstPurchaseTimestamp": 1682723699,
+    "count": 3
+  },
+  "0x2649413d1bcf67f8dce6d6e7adae05e6a1294aeb": {
+    "totalAmountUSD": 5512.930997349375,
+    "totalTokenAmount": -18163065609.675194,
+    "firstPurchaseTimestamp": 1682713403,
+    "count": 2
+  },
+  "0x1bb47b92d2069b7d199c9e72cfe5c3ddc257e1d5": {
+    "totalAmountUSD": 3224.3964427285277,
+    "totalTokenAmount": -9708629937.90499,
+    "firstPurchaseTimestamp": 1682724263,
+    "count": 1
+  },
+  "0xe2470588c82236cc42b597ad536da9855e3509f4": {
+    "totalAmountUSD": 12936.270266961676,
+    "totalTokenAmount": -58431848643.35617,
+    "firstPurchaseTimestamp": 1682561303,
+    "count": 2
+  },
+  "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640": {
+    "totalAmountUSD": 47237.10945263638,
+    "totalTokenAmount": 180800654614.88068,
+    "firstPurchaseTimestamp": 1682560991,
+    "count": 8
+  },
+  "0x06777663540134bd29728992cafceb27e8cd1198": {
+    "totalAmountUSD": 6802.494675582451,
+    "totalTokenAmount": -25660815060.262314,
+    "firstPurchaseTimestamp": 1682574911,
+    "count": 2
+  },
+  "0x9ee49420ade329ff711bd4d45761377cf1215db3": {
+    "totalAmountUSD": 3566.280509564249,
+    "totalTokenAmount": -13278521465.494448,
+    "firstPurchaseTimestamp": 1682637167,
+    "count": 1
+  },
+  "0x2b7d09fedf8401ef4e1f48242e5b428e4fcf781c": {
+    "totalAmountUSD": 2201.9778701725586,
+    "totalTokenAmount": -7186798370.015032,
+    "firstPurchaseTimestamp": 1682715995,
+    "count": 1
+  },
+  "0xee20f85dd3f826700a6a42af4873a04af8ac6d75": {
+    "totalAmountUSD": 9452.140054614607,
+    "totalTokenAmount": -36201103945.575966,
+    "firstPurchaseTimestamp": 1682691191,
+    "count": 1
+  },
+  "0x8c0e528e46e73d5c756109617666d87e8377ac7b": {
+    "totalAmountUSD": 4650.951636299288,
+    "totalTokenAmount": -14499209116.361914,
+    "firstPurchaseTimestamp": 1682719043,
+    "count": 1
+  },
+  "0xb1da760f016ff246ed5f773a0011c49a70f12990": {
+    "totalAmountUSD": 36596.79846875761,
+    "totalTokenAmount": 127063036468.82841,
+    "firstPurchaseTimestamp": 1682617703,
+    "count": 11
+  },
+  "0xe59350800a422d8c4b3a370b0c1453beceddef78": {
+    "totalAmountUSD": 2174.210362203983,
+    "totalTokenAmount": -8506896928.8850355,
+    "firstPurchaseTimestamp": 1682621351,
+    "count": 1
+  },
+  "0x0f7a2eb5dfe07f58b73f2a61094bbd3541d3c520": {
+    "totalAmountUSD": 4804.689068620473,
+    "totalTokenAmount": -16610179600.455357,
+    "firstPurchaseTimestamp": 1682707295,
+    "count": 2
+  },
+  "0x3c0756ba2b1d702f8f63629555625b11be81546f": {
+    "totalAmountUSD": 11828.952675254812,
+    "totalTokenAmount": -37654913596.08878,
+    "firstPurchaseTimestamp": 1682718395,
+    "count": 2
+  },
+  "0x2aebfd685f83f836ab7d8b5753db95dc9f485667": {
+    "totalAmountUSD": 15081.875608009263,
+    "totalTokenAmount": -56818307031.660614,
+    "firstPurchaseTimestamp": 1682642759,
+    "count": 2
+  },
+  "0xcb7c5c87c4b460b5f3f9211e33035adaad7e50c9": {
+    "totalAmountUSD": 2384.894035476204,
+    "totalTokenAmount": -8999569194.727718,
+    "firstPurchaseTimestamp": 1682685599,
+    "count": 1
+  },
+  "0xdc047ff25f6611e879f32a9f4c0f192089f4b8ab": {
+    "totalAmountUSD": 6960.685758425921,
+    "totalTokenAmount": -24716382923.053608,
+    "firstPurchaseTimestamp": 1682643935,
+    "count": 3
+  },
+  "0x30784ec9b03c039ebb880e3936538e652b1cf5ba": {
+    "totalAmountUSD": 9390.47821847361,
+    "totalTokenAmount": -34975083710.17828,
+    "firstPurchaseTimestamp": 1682618363,
+    "count": 2
+  },
+  "0xb1331db7d300a69ca4b00cfe75a9d5c9d497ac5e": {
+    "totalAmountUSD": 17011.90033609928,
+    "totalTokenAmount": -63376272532.6048,
+    "firstPurchaseTimestamp": 1682585975,
+    "count": 3
+  },
+  "0xa60e522c5517b05526ee0f7f3885b82b37ceeb2d": {
+    "totalAmountUSD": 11434.043146034892,
+    "totalTokenAmount": -42539349226.13072,
+    "firstPurchaseTimestamp": 1682677019,
+    "count": 2
+  },
+  "0x689ee5a2e2217b5ef86b98f45780762a8e60af15": {
+    "totalAmountUSD": 4564.524749314925,
+    "totalTokenAmount": -20275853349.489647,
+    "firstPurchaseTimestamp": 1682564939,
+    "count": 2
+  },
+  "0x0cad64ea3f3229bf9069b462dc850627f2d7af45": {
+    "totalAmountUSD": 11373.153182880375,
+    "totalTokenAmount": -41346071946.12773,
+    "firstPurchaseTimestamp": 1682652815,
+    "count": 3
+  },
+  "0x434171671f13539a38e2b43a3b23926f1df14829": {
+    "totalAmountUSD": 5179.679990394089,
+    "totalTokenAmount": -18507255139.983646,
+    "firstPurchaseTimestamp": 1682670779,
+    "count": 1
+  },
+  "0x090c70a3e4d8e26004daabefb462ae4d01f897c6": {
+    "totalAmountUSD": 3804.12598259549,
+    "totalTokenAmount": -17989889675.426727,
+    "firstPurchaseTimestamp": 1682568467,
+    "count": 1
+  },
+  "0xca317ef5f8978c36c1065184fde08d9dd7c36cfe": {
+    "totalAmountUSD": 8992.532488689685,
+    "totalTokenAmount": -33370000000,
+    "firstPurchaseTimestamp": 1682655599,
+    "count": 3
+  },
+  "0xfb4f4f01db698c72111b4a2c962b31ad377948c5": {
+    "totalAmountUSD": 35428.385865000106,
+    "totalTokenAmount": -138059226235.9292,
+    "firstPurchaseTimestamp": 1682617295,
+    "count": 6
+  },
+  "0xaee2ae13ebf81d38df5a9ed7013e80ea3f72e39b": {
+    "totalAmountUSD": 15649.393011229517,
+    "totalTokenAmount": -47017797895.124664,
+    "firstPurchaseTimestamp": 1682716691,
+    "count": 2
+  },
+  "0xaa7a782e4892f7a805e5066fea9ad70160f91dbe": {
+    "totalAmountUSD": 4986.772120356179,
+    "totalTokenAmount": -19370168979.113247,
+    "firstPurchaseTimestamp": 1682697179,
+    "count": 1
+  },
+  "0x9eba362ba2fbea3c64efe2601fe2824606d14677": {
+    "totalAmountUSD": 2237.3264817204927,
+    "totalTokenAmount": -9658313567.934498,
+    "firstPurchaseTimestamp": 1682554943,
+    "count": 1
+  },
+  "0x42be032b8059a3a8716652e86fb758f85a5297a1": {
+    "totalAmountUSD": 2922.708696618772,
+    "totalTokenAmount": -10534762250.646679,
+    "firstPurchaseTimestamp": 1682666843,
+    "count": 1
+  },
+  "0xaa5d1125dcd349455dc5f04911bcb315af10c847": {
+    "totalAmountUSD": 12405.33923911729,
+    "totalTokenAmount": -55713438968.24595,
+    "firstPurchaseTimestamp": 1682571503,
+    "count": 1
+  },
+  "0x1d2262c36e141549b9670ac2a98a4e44f7831953": {
+    "totalAmountUSD": 3758.558910632353,
+    "totalTokenAmount": -12189873698.325954,
+    "firstPurchaseTimestamp": 1682714687,
+    "count": 1
+  },
+  "0x8008a68f66fc26cf5bd4dec4d7975511f4e2966b": {
+    "totalAmountUSD": 3796.348817665416,
+    "totalTokenAmount": -11257100204.51123,
+    "firstPurchaseTimestamp": 1682721755,
+    "count": 1
+  },
+  "0x0e688f4255b969af1644333cdc83bef758259098": {
+    "totalAmountUSD": 5045.721705129268,
+    "totalTokenAmount": -22368220096.832268,
+    "firstPurchaseTimestamp": 1682602151,
+    "count": 2
+  },
+  "0x6a99dadc216a83adb0191c264a1774e82fd31aff": {
+    "totalAmountUSD": 7201.945590620664,
+    "totalTokenAmount": -26988800000,
+    "firstPurchaseTimestamp": 1682657555,
+    "count": 2
+  },
+  "0x3885e32dd81d446ec8a2e0582df6a29f1647c063": {
+    "totalAmountUSD": 10005.528559485825,
+    "totalTokenAmount": -34530505212.129,
+    "firstPurchaseTimestamp": 1682667059,
+    "count": 2
+  },
+  "0x3beff89067d985a08fca612cfb3ccd4986314ed9": {
+    "totalAmountUSD": 9484.94803821624,
+    "totalTokenAmount": -36200435472,
+    "firstPurchaseTimestamp": 1682587607,
+    "count": 3
+  },
+  "0xe11bd9aa89e30f3744f49d4fc1803978aee2f768": {
+    "totalAmountUSD": 3098.446001080984,
+    "totalTokenAmount": -10585975134.825914,
+    "firstPurchaseTimestamp": 1682711783,
+    "count": 1
+  },
+  "0xbc69ab486852fa13c6ccd84800afdbbd984f4fd5": {
+    "totalAmountUSD": 13208.250863513424,
+    "totalTokenAmount": -48508220828.14349,
+    "firstPurchaseTimestamp": 1682692019,
+    "count": 3
+  },
+  "0x018a50095636713cc12a33f2a768129bac607343": {
+    "totalAmountUSD": 20862.786432214732,
+    "totalTokenAmount": -80000000000,
+    "firstPurchaseTimestamp": 1682661647,
+    "count": 4
+  },
+  "0x0eae044f00b0af300500f090ea00027097d03000": {
+    "totalAmountUSD": 4213.631069780946,
+    "totalTokenAmount": 15728846081.566664,
+    "firstPurchaseTimestamp": 1682639699,
+    "count": 1
+  },
+  "0x6f8f592e4d7d0bb1b899a9850fa50e982e5a786b": {
+    "totalAmountUSD": 11694.461788733963,
+    "totalTokenAmount": -46596521578.30426,
+    "firstPurchaseTimestamp": 1682589071,
+    "count": 2
+  },
+  "0x91f8bea893a4adabba7c75d4c6e91986f7671014": {
+    "totalAmountUSD": 2657.3682204715346,
+    "totalTokenAmount": -10452346859.570879,
+    "firstPurchaseTimestamp": 1682621495,
+    "count": 1
+  },
+  "0xb40f33ede94f83911b094ed211df8ff13f490895": {
+    "totalAmountUSD": 20018.091362196155,
+    "totalTokenAmount": -85111725520.02312,
+    "firstPurchaseTimestamp": 1682570147,
+    "count": 2
+  },
+  "0x0b116205c45c667b33265191439988a6dc06de29": {
+    "totalAmountUSD": 5569.569301787601,
+    "totalTokenAmount": -18160727179.175827,
+    "firstPurchaseTimestamp": 1682714291,
+    "count": 1
+  },
+  "0xa90400a29703a38396337ac53b0a8a50fdd352f4": {
+    "totalAmountUSD": 15719.500500964723,
+    "totalTokenAmount": -57472059501.055984,
+    "firstPurchaseTimestamp": 1682648927,
+    "count": 2
+  },
+  "0x0d451aee2d806bb74436ee62ba0dd633837e2145": {
+    "totalAmountUSD": 13003.43729854272,
+    "totalTokenAmount": -40000000000,
+    "firstPurchaseTimestamp": 1682718251,
+    "count": 4
+  },
+  "0x640bc7fb76fb7af2b6d94423c8470e620ff038b4": {
+    "totalAmountUSD": 2573.1252313473533,
+    "totalTokenAmount": -9500143825.47943,
+    "firstPurchaseTimestamp": 1682654831,
+    "count": 1
+  },
+  "0x3f8a41913df38708d068dbee522e7c7e84db0d7a": {
+    "totalAmountUSD": 11560.217119479646,
+    "totalTokenAmount": -49000000000,
+    "firstPurchaseTimestamp": 1682570243,
+    "count": 2
+  },
+  "0x3cab4778f42084e5d5c547eadc3e5569e83d01c6": {
+    "totalAmountUSD": 3386.895924947453,
+    "totalTokenAmount": -13170691797.162485,
+    "firstPurchaseTimestamp": 1682620811,
+    "count": 1
+  },
+  "0xef21c1165ee14951bc1c975b6c65a9b247c2c1c0": {
+    "totalAmountUSD": 45807.21795375135,
+    "totalTokenAmount": -154391023925.37708,
+    "firstPurchaseTimestamp": 1682669243,
+    "count": 3
+  },
+  "0x2b0f14abe8bcb00308d923dedffd9c6eafce828b": {
+    "totalAmountUSD": 30027.850382771525,
+    "totalTokenAmount": -104805785399.94493,
+    "firstPurchaseTimestamp": 1682569235,
+    "count": 5
+  },
+  "0x84b2f0fe805149533ca50549e28708023d5da571": {
+    "totalAmountUSD": 7403.182734095223,
+    "totalTokenAmount": -22633504219.4662,
+    "firstPurchaseTimestamp": 1682722163,
+    "count": 2
+  },
+  "0x95c313f8b1326a3c72c1b8c617c0ecc9491dfba9": {
+    "totalAmountUSD": 2567.861131785076,
+    "totalTokenAmount": -12056460900.510672,
+    "firstPurchaseTimestamp": 1682569283,
+    "count": 1
+  },
+  "0xcff01dcbd7ba6dbc2b43da9105a58b32ebd824f0": {
+    "totalAmountUSD": 11496.567526327632,
+    "totalTokenAmount": -41057358649.11081,
+    "firstPurchaseTimestamp": 1682663003,
+    "count": 1
+  },
+  "0xd32f222283d295f93664b11faac967e6826b635f": {
+    "totalAmountUSD": 32162.164702011774,
+    "totalTokenAmount": -106540381572.70514,
+    "firstPurchaseTimestamp": 1682716451,
+    "count": 7
+  },
+  "0xf9a001d5b2c7c5e45693b41fcf931b94e680cac4": {
+    "totalAmountUSD": 4342.442492386517,
+    "totalTokenAmount": 15483900659.589592,
+    "firstPurchaseTimestamp": 1682619323,
+    "count": 1
+  },
+  "0x0024602ff08aa2c286ab4d8fbb725ac9443c0693": {
+    "totalAmountUSD": 8833.323843947346,
+    "totalTokenAmount": -31700604679.437584,
+    "firstPurchaseTimestamp": 1682617775,
+    "count": 2
+  },
+  "0xcb24b3306823f4337a54ddfcbf5f9f2b6e38fcd8": {
+    "totalAmountUSD": 7568.3345232071915,
+    "totalTokenAmount": -28000000000,
+    "firstPurchaseTimestamp": 1682657303,
+    "count": 1
+  },
+  "0xd4ed6f78ee9540aa95a41939cf346830165bb75b": {
+    "totalAmountUSD": 4745.64196157879,
+    "totalTokenAmount": -15279945221.558683,
+    "firstPurchaseTimestamp": 1682715311,
+    "count": 1
+  },
+  "0x38c07af388576e44d849e3e1607d803fd4dba21e": {
+    "totalAmountUSD": 12223.773630161853,
+    "totalTokenAmount": -46921244872.6268,
+    "firstPurchaseTimestamp": 1682613911,
+    "count": 3
+  },
+  "0x929002a2a4251c311522fc37822b9e1271ec2a13": {
+    "totalAmountUSD": 4239.12152930773,
+    "totalTokenAmount": -12334320954.503912,
+    "firstPurchaseTimestamp": 1682721119,
+    "count": 1
+  },
+  "0x3bae65e53dabf147fbeca9497399a4748efb534d": {
+    "totalAmountUSD": 5721.368999019506,
+    "totalTokenAmount": -22478910138.527817,
+    "firstPurchaseTimestamp": 1682617931,
+    "count": 2
+  },
+  "0xf87e429f8ff4c5eb96859a8a76276a1750fe1a9c": {
+    "totalAmountUSD": 13775.973412471209,
+    "totalTokenAmount": -48241252750.7473,
+    "firstPurchaseTimestamp": 1682653007,
+    "count": 3
+  },
+  "0xa61186ef4cc522028546cb79761c4c8dd65c6c3b": {
+    "totalAmountUSD": 8656.964434706017,
+    "totalTokenAmount": -37647659611.03345,
+    "firstPurchaseTimestamp": 1682557703,
+    "count": 1
+  },
+  "0xde356649edd9bf9cf3bd705f84531f2e6cd6a2e2": {
+    "totalAmountUSD": 38618.488519378945,
+    "totalTokenAmount": -130335409729.26997,
+    "firstPurchaseTimestamp": 1682709599,
+    "count": 3
+  },
+  "0x2a878245b52a2d46cb4327541cbc96e403a84791": {
+    "totalAmountUSD": 4999.193408839658,
+    "totalTokenAmount": -18818736095.882515,
+    "firstPurchaseTimestamp": 1682623427,
+    "count": 1
+  },
+  "0x82ae409ed5d28dedbdbf645ee4fe47772847c14d": {
+    "totalAmountUSD": 46351.44263322964,
+    "totalTokenAmount": -192051960503.60013,
+    "firstPurchaseTimestamp": 1682613659,
+    "count": 8
+  },
+  "0xec1e7cc2495f14db176b5d6f2dbfbbaa4476c2f7": {
+    "totalAmountUSD": 34230.78464282264,
+    "totalTokenAmount": -131178546353.47806,
+    "firstPurchaseTimestamp": 1682554235,
+    "count": 4
+  },
+  "0x206e8412d430096d58e016f76f0c1d00b6506c61": {
+    "totalAmountUSD": 25468.173794028007,
+    "totalTokenAmount": -88920733727.57404,
+    "firstPurchaseTimestamp": 1682598803,
+    "count": 5
+  },
+  "0xb3d9fc7ed24284af0c00066aa3c62652e19fc586": {
+    "totalAmountUSD": 9548.600411566336,
+    "totalTokenAmount": -37367970053.42557,
+    "firstPurchaseTimestamp": 1682650775,
+    "count": 1
+  },
+  "0x38f8eed662c9f8093889b2e3d9e6cbf751559e77": {
+    "totalAmountUSD": 7025.362655205539,
+    "totalTokenAmount": -26258569840.89179,
+    "firstPurchaseTimestamp": 1682637443,
+    "count": 1
+  },
+  "0x0828dc4993e4b742cf36eef40113a4f930a7f36b": {
+    "totalAmountUSD": 8419.008812716002,
+    "totalTokenAmount": -31847165909.890675,
+    "firstPurchaseTimestamp": 1682637587,
+    "count": 2
+  },
+  "0x4041e470409f9f12125267db12fc24d73c5b387a": {
+    "totalAmountUSD": 9548.711257890602,
+    "totalTokenAmount": -40814540088.34679,
+    "firstPurchaseTimestamp": 1682574323,
+    "count": 2
+  },
+  "0xc3b8b9e299754f10a0f072b0eb24f89555416a22": {
+    "totalAmountUSD": 36542.038735015594,
+    "totalTokenAmount": -115327125509.69928,
+    "firstPurchaseTimestamp": 1682715599,
+    "count": 5
+  },
+  "0x9b845545c9a6f02641ed1cb0f083788be792adda": {
+    "totalAmountUSD": 2156.2022548088275,
+    "totalTokenAmount": -7644384421.294968,
+    "firstPurchaseTimestamp": 1682670131,
+    "count": 1
+  },
+  "0x10c7f2b4741f5686a42c9fb2002e9e50ca508278": {
+    "totalAmountUSD": 2877.5777981970136,
+    "totalTokenAmount": -10257976174.012033,
+    "firstPurchaseTimestamp": 1682671199,
+    "count": 1
+  },
+  "0xb580db0e2c9909ecaa3adb165d1e474a7ff47cd3": {
+    "totalAmountUSD": 5149.20670734253,
+    "totalTokenAmount": -20000000000,
+    "firstPurchaseTimestamp": 1682626607,
+    "count": 1
+  },
+  "0x7d00a2bc1370b9005eb100004da500924600a2e1": {
+    "totalAmountUSD": 5884.579658328633,
+    "totalTokenAmount": 20187092936.727764,
+    "firstPurchaseTimestamp": 1682710895,
+    "count": 1
+  },
+  "0x044ebb2f973bb84bce9000961b069d1af9b16513": {
+    "totalAmountUSD": 17876.03744650483,
+    "totalTokenAmount": -65960839111.87175,
+    "firstPurchaseTimestamp": 1682628971,
+    "count": 4
+  },
+  "0xb1a69202796d09d90b0c31915a03f5e64d158b32": {
+    "totalAmountUSD": 2665.317134359773,
+    "totalTokenAmount": -10610568875.375832,
+    "firstPurchaseTimestamp": 1682617283,
+    "count": 1
+  },
+  "0xa9d089096fc914118315f3a1379a398e2dcb0fde": {
+    "totalAmountUSD": 19177.359409199213,
+    "totalTokenAmount": -84454423423.73775,
+    "firstPurchaseTimestamp": 1682554451,
+    "count": 3
+  },
+  "0xeafaa1405a1bac58d2c3dcefe6a07467bcd7febe": {
+    "totalAmountUSD": 4291.383307225518,
+    "totalTokenAmount": -16249969922.434418,
+    "firstPurchaseTimestamp": 1682618447,
+    "count": 2
+  },
+  "0xc87221ffb663d709d59aeb13839e04c99104f376": {
+    "totalAmountUSD": 2880.8585752048466,
+    "totalTokenAmount": -10909800945.039394,
+    "firstPurchaseTimestamp": 1682625263,
+    "count": 1
+  },
+  "0xea32512e8c872aab94329cb737722cd6a68904fb": {
+    "totalAmountUSD": 2287.10249116184,
+    "totalTokenAmount": -8462538581.663464,
+    "firstPurchaseTimestamp": 1682638559,
+    "count": 1
+  },
+  "0x1b1692f2be561f4dc6fdc31ce9c67756567dad7a": {
+    "totalAmountUSD": 4958.931821682821,
+    "totalTokenAmount": -18427735686.926888,
+    "firstPurchaseTimestamp": 1682619179,
+    "count": 1
+  },
+  "0xea1d14af4217322a89f539858adc8cd021403129": {
+    "totalAmountUSD": 5559.742429224146,
+    "totalTokenAmount": -16779892283.495808,
+    "firstPurchaseTimestamp": 1682725127,
+    "count": 1
+  },
+  "0xd9d9cb8037d8a11a511398c3a790ded9bdf21b08": {
+    "totalAmountUSD": 13177.260220153963,
+    "totalTokenAmount": -55217150292.45976,
+    "firstPurchaseTimestamp": 1682616335,
+    "count": 1
+  },
+  "0x322e9313fba28fa9b21b0532b92b49077f107070": {
+    "totalAmountUSD": 27458.194262963952,
+    "totalTokenAmount": -113247301152.6432,
+    "firstPurchaseTimestamp": 1682609507,
+    "count": 3
+  },
+  "0x8f250d4e6d940301f97d5c83b9a0b56563a50cda": {
+    "totalAmountUSD": 4958.931821682821,
+    "totalTokenAmount": -19347297615.49214,
+    "firstPurchaseTimestamp": 1682618399,
+    "count": 1
+  },
+  "0x28b148fde5468ad0d425c28158d9f63aaac0a317": {
+    "totalAmountUSD": 5747.676268207016,
+    "totalTokenAmount": -20138209615.42303,
+    "firstPurchaseTimestamp": 1682635919,
+    "count": 1
+  },
+  "0x2f4bf8938ee529b4cab899762a623030dea26f2e": {
+    "totalAmountUSD": 6736.0860480844885,
+    "totalTokenAmount": -29167830481.393276,
+    "firstPurchaseTimestamp": 1682613251,
+    "count": 1
+  },
+  "0xf56562a7e747d58e31e9a1043d47ecbe4876c6dd": {
+    "totalAmountUSD": 4935.253462965041,
+    "totalTokenAmount": -14716772690.795193,
+    "firstPurchaseTimestamp": 1682721851,
+    "count": 1
+  },
+  "0xf5dadf06167b2d9049e2167f0b4bcf754efe8c83": {
+    "totalAmountUSD": 4801.036915092097,
+    "totalTokenAmount": -18415994158.358894,
+    "firstPurchaseTimestamp": 1682623091,
+    "count": 1
+  },
+  "0x49e9432f0f96bb23261c879bc8b95c46a1941158": {
+    "totalAmountUSD": 5695.000920678643,
+    "totalTokenAmount": -17163420371.856237,
+    "firstPurchaseTimestamp": 1682724095,
+    "count": 1
+  },
+  "0xf6065bfbbb06d9f84d74d4b93f450865e5efa6a8": {
+    "totalAmountUSD": 2709.341151380998,
+    "totalTokenAmount": -11558489382.681145,
+    "firstPurchaseTimestamp": 1682608343,
+    "count": 1
+  },
+  "0x528f3e771a5d15ca265db606e29989da008ce6c3": {
+    "totalAmountUSD": 3144.5694902367177,
+    "totalTokenAmount": -14726103705.455313,
+    "firstPurchaseTimestamp": 1682563871,
+    "count": 1
+  },
+  "0xec03609f48d71330054ee8c174a12647043be108": {
+    "totalAmountUSD": 7586.772387010335,
+    "totalTokenAmount": -28762858197.679695,
+    "firstPurchaseTimestamp": 1682676803,
+    "count": 1
+  },
+  "0x4498714025533155eec90e5a260a931e96a4feb8": {
+    "totalAmountUSD": 2705.68400629829,
+    "totalTokenAmount": -10436280485.349411,
+    "firstPurchaseTimestamp": 1682622515,
+    "count": 1
+  },
+  "0xc1cd8d4ff7df6dd7d521abee8e870605615608da": {
+    "totalAmountUSD": 8195.450593329928,
+    "totalTokenAmount": -30171151682.421738,
+    "firstPurchaseTimestamp": 1682639339,
+    "count": 2
+  },
+  "0xa22b1a3d2ae3719fce4411cc84243ea6a2166460": {
+    "totalAmountUSD": 6238.8016667200245,
+    "totalTokenAmount": -27641523503.249355,
+    "firstPurchaseTimestamp": 1682569427,
+    "count": 3
+  },
+  "0x6db01031355fbf8eea0c06a5d56217ba1967f0df": {
+    "totalAmountUSD": 15622.488611059494,
+    "totalTokenAmount": 2663721453.440489,
+    "firstPurchaseTimestamp": 1682611763,
+    "count": 4
+  },
+  "0x9c173a6f2f827895ebfc7a0de4e9f7add89eaeb0": {
+    "totalAmountUSD": 4697.47727816662,
+    "totalTokenAmount": -19707776374.206562,
+    "firstPurchaseTimestamp": 1682591399,
+    "count": 1
+  },
+  "0x922ca3113250afb98e609fd8d380beb4f82a5c0a": {
+    "totalAmountUSD": 7669.336831219995,
+    "totalTokenAmount": -29642844366.51108,
+    "firstPurchaseTimestamp": 1682627675,
+    "count": 2
+  },
+  "0x15aeee75a911e4e935ce7036b27b74230bd47f15": {
+    "totalAmountUSD": 6760.5465196266805,
+    "totalTokenAmount": -29512573053.708126,
+    "firstPurchaseTimestamp": 1682572655,
+    "count": 1
+  },
+  "0x3fd27b673a82006a1daf7e0a198d555f9940c834": {
+    "totalAmountUSD": 2302.9965751989334,
+    "totalTokenAmount": -9001326114.905472,
+    "firstPurchaseTimestamp": 1682690135,
+    "count": 1
+  },
+  "0xcbcb043d9b58d01bd2fb26a51305d6db90beb044": {
+    "totalAmountUSD": 5717.399073157669,
+    "totalTokenAmount": -26255751264.3962,
+    "firstPurchaseTimestamp": 1682564147,
+    "count": 1
+  },
+  "0x461e797e32448a189fd34446373799bdc64c5974": {
+    "totalAmountUSD": 9681.695569572856,
+    "totalTokenAmount": 36849352055.43704,
+    "firstPurchaseTimestamp": 1682623835,
+    "count": 2
+  },
+  "0xbc9a9fe486e471f33d68b442e699add34a8d1689": {
+    "totalAmountUSD": 7622.12649926547,
+    "totalTokenAmount": -29034120001.912773,
+    "firstPurchaseTimestamp": 1682642555,
+    "count": 2
+  },
+  "0xbf43085b3baa50fa9ca142b364c1a562ca7a53b8": {
+    "totalAmountUSD": 12165.645323528996,
+    "totalTokenAmount": -42480358979.24003,
+    "firstPurchaseTimestamp": 1682658455,
+    "count": 3
+  },
+  "0x6225d0ba5d77205577b11b6ef1e829350ed3b8d0": {
+    "totalAmountUSD": 5652.771443647271,
+    "totalTokenAmount": -21421612892.372353,
+    "firstPurchaseTimestamp": 1682646719,
+    "count": 2
+  },
+  "0x2873423f30fafb91e65eef97920f41847e95bed1": {
+    "totalAmountUSD": 32395.28921330246,
+    "totalTokenAmount": -105787376209.91164,
+    "firstPurchaseTimestamp": 1682634875,
+    "count": 5
+  },
+  "0x9552960b381911185f86ec2b8992cddfafeb0caf": {
+    "totalAmountUSD": 3359.6215014039494,
+    "totalTokenAmount": -12924240167.984951,
+    "firstPurchaseTimestamp": 1682631803,
+    "count": 1
+  },
+  "0x293203c956f18703aabab033307107991c947d1c": {
+    "totalAmountUSD": 3797.0725321599302,
+    "totalTokenAmount": -12908939040.313549,
+    "firstPurchaseTimestamp": 1682711039,
+    "count": 1
+  },
+  "0x4119b064f664b259bdaec80a7f582373015daced": {
+    "totalAmountUSD": 2385.9730340821875,
+    "totalTokenAmount": -8739009563.503119,
+    "firstPurchaseTimestamp": 1682655503,
+    "count": 1
+  },
+  "0x96bded4d5150a59908d24c6ed46ee5aceccb2629": {
+    "totalAmountUSD": 9602.073830184194,
+    "totalTokenAmount": -36511934685.30165,
+    "firstPurchaseTimestamp": 1682622827,
+    "count": 2
+  },
+  "0x6a3a4734f7a2044a50c7ac92cca3f803be5404c1": {
+    "totalAmountUSD": 4745.869016631927,
+    "totalTokenAmount": -15093229018.570076,
+    "firstPurchaseTimestamp": 1682718575,
+    "count": 1
+  },
+  "0x9cd6140c2de8af7595629bcca099497f0c28b2a9": {
+    "totalAmountUSD": 3300.6787433103214,
+    "totalTokenAmount": -14748516607.625694,
+    "firstPurchaseTimestamp": 1682562155,
+    "count": 1
+  },
+  "0xb9ef41ca4647127e32c1e1d8fc0aa3341510e0e3": {
+    "totalAmountUSD": 9281.929438462827,
+    "totalTokenAmount": -35149806345.124725,
+    "firstPurchaseTimestamp": 1682617679,
+    "count": 3
+  },
+  "0x5fc13c5a541041f8fa12fab492d064435eb8d2f5": {
+    "totalAmountUSD": 7655.707706695812,
+    "totalTokenAmount": -28748001259.926746,
+    "firstPurchaseTimestamp": 1682618951,
+    "count": 2
+  },
+  "0x1fb9c8a3cf54d394fac7ee0837a5e75f7cf20814": {
+    "totalAmountUSD": 3368.446837406011,
+    "totalTokenAmount": -14612441871.606018,
+    "firstPurchaseTimestamp": 1682574503,
+    "count": 1
+  },
+  "0x65dcf7782260aa1d6642a85f36c0bc9545182f1e": {
+    "totalAmountUSD": 5235.435586083015,
+    "totalTokenAmount": -20040139167.704155,
+    "firstPurchaseTimestamp": 1682617679,
+    "count": 2
+  },
+  "0x607ec0149fd87dfc03b63fd12b01124a5dbab4e4": {
+    "totalAmountUSD": 2088.461704395534,
+    "totalTokenAmount": -7282784936.92106,
+    "firstPurchaseTimestamp": 1682710283,
+    "count": 1
+  },
+  "0x006a3d00df1b5c6a006b11d8000000d557622100": {
+    "totalAmountUSD": 9297.243323687228,
+    "totalTokenAmount": 28086227907.140923,
+    "firstPurchaseTimestamp": 1682721539,
+    "count": 2
+  },
+  "0xad433593058311ed806717fa03ec96045f94546f": {
+    "totalAmountUSD": 3820.489463107466,
+    "totalTokenAmount": -14287734513.92232,
+    "firstPurchaseTimestamp": 1682682251,
+    "count": 1
+  },
+  "0x89331fc05ffb863e53ea2e50aa371f9e9444f287": {
+    "totalAmountUSD": 10005.385186098985,
+    "totalTokenAmount": -30701624316.615013,
+    "firstPurchaseTimestamp": 1682723795,
+    "count": 1
+  },
+  "0x633f28225291fbd27eafba13ff7a74c21e10664b": {
+    "totalAmountUSD": 21861.265429529318,
+    "totalTokenAmount": -74887569025.39116,
+    "firstPurchaseTimestamp": 1682697095,
+    "count": 3
+  },
+  "0xd905de91f928b20ea0ccf455e5ba07eb6373955c": {
+    "totalAmountUSD": 3478.7365795263727,
+    "totalTokenAmount": -13525887332.881708,
+    "firstPurchaseTimestamp": 1682622215,
+    "count": 1
+  },
+  "0xc8231eb0f6be12cca4e8de38fbd36382f827b615": {
+    "totalAmountUSD": 10829.611897496266,
+    "totalTokenAmount": -34419522830.400856,
+    "firstPurchaseTimestamp": 1682618615,
+    "count": 2
+  },
+  "0x5a32249f3f076571362e7d00af3e8ee8757271e2": {
+    "totalAmountUSD": 3440.934393741296,
+    "totalTokenAmount": -13185728399.89687,
+    "firstPurchaseTimestamp": 1682691767,
+    "count": 1
+  },
+  "0x4ffe2f674c4afa078554cb2e5a6a672452b6c290": {
+    "totalAmountUSD": 17982.69700219199,
+    "totalTokenAmount": -65744742443.3019,
+    "firstPurchaseTimestamp": 1682654591,
+    "count": 3
+  },
+  "0x933da9019d277fc55ff645c827918796dae61e8e": {
+    "totalAmountUSD": 13875.472693362508,
+    "totalTokenAmount": -53501767954.96222,
+    "firstPurchaseTimestamp": 1682618483,
+    "count": 2
+  },
+  "0xe6c183f68a2743805be354db46d7f3f2bc6a8309": {
+    "totalAmountUSD": 5786.017471559513,
+    "totalTokenAmount": -18916000000,
+    "firstPurchaseTimestamp": 1682712767,
+    "count": 1
+  },
+  "0x45ddff0190d30c33889460dccef840f68a41076d": {
+    "totalAmountUSD": 17657.56068865153,
+    "totalTokenAmount": -70039472050.67673,
+    "firstPurchaseTimestamp": 1682600351,
+    "count": 4
+  },
+  "0xed1683b79700859b2fa65335d8104cb7189e6a03": {
+    "totalAmountUSD": 3796.348817665416,
+    "totalTokenAmount": -11522016581.344336,
+    "firstPurchaseTimestamp": 1682720471,
+    "count": 1
+  },
+  "0x6b36179819a6fdc609ccc0c325da41348bf197c4": {
+    "totalAmountUSD": 2452.5556504741367,
+    "totalTokenAmount": -10730325884.649687,
+    "firstPurchaseTimestamp": 1682607659,
+    "count": 1
+  },
+  "0x7b9b2d0f87361fd8bdd4c3a51b1fbaea2ea76bcd": {
+    "totalAmountUSD": 2691.7860872114966,
+    "totalTokenAmount": -10000000000,
+    "firstPurchaseTimestamp": 1682619227,
+    "count": 1
+  },
+  "0xcaee6c7aae8805913e24a8ce5d5d22be2d4ff7ad": {
+    "totalAmountUSD": 2997.115722380296,
+    "totalTokenAmount": -12875157781.071377,
+    "firstPurchaseTimestamp": 1682611739,
+    "count": 1
+  },
+  "0x472eb912b103269d0f8d94311ca6886fc5efa2c4": {
+    "totalAmountUSD": 2182.9953023262433,
+    "totalTokenAmount": -7093124778.568884,
+    "firstPurchaseTimestamp": 1682716007,
+    "count": 1
+  },
+  "0x2dde64018ba03931e518dda4dd0d18affb12effa": {
+    "totalAmountUSD": 3817.559318538667,
+    "totalTokenAmount": 14437548043.84327,
+    "firstPurchaseTimestamp": 1682653223,
+    "count": 1
+  },
+  "0x97c52dcc94befcaed65a33e576e1cabf72841663": {
+    "totalAmountUSD": 2095.2043197164476,
+    "totalTokenAmount": -8089117539.641258,
+    "firstPurchaseTimestamp": 1682680547,
+    "count": 1
+  },
+  "0x3d2928f8d6e84e8f676fdf2f707a7a761b659bfd": {
+    "totalAmountUSD": 9886.085015479668,
+    "totalTokenAmount": -35762166120.65033,
+    "firstPurchaseTimestamp": 1682660867,
+    "count": 2
+  },
+  "0x49c3745e2c154eaa834da9e3cfd5ce281124fb56": {
+    "totalAmountUSD": 2022.2676924348177,
+    "totalTokenAmount": 9000000000,
+    "firstPurchaseTimestamp": 1682554523,
+    "count": 1
+  },
+  "0x0ef26b897a66b967fc2a1e6d919e8440b7a2148b": {
+    "totalAmountUSD": 7895.059470222421,
+    "totalTokenAmount": -26000000000,
+    "firstPurchaseTimestamp": 1682716319,
+    "count": 1
+  },
+  "0x6c940991ba4721821bd994fe7835faef96124a82": {
+    "totalAmountUSD": 20003.57650055394,
+    "totalTokenAmount": -79297093889.79745,
+    "firstPurchaseTimestamp": 1682689547,
+    "count": 2
+  },
+  "0x1d07588a4ea08f10dc10dd76a6ddff7a053f13e0": {
+    "totalAmountUSD": 10836.778101413485,
+    "totalTokenAmount": -42400302952.04712,
+    "firstPurchaseTimestamp": 1682616227,
+    "count": 2
+  },
+  "0xf93a61e145157f5f70e1ec71fe2836497b12ef0e": {
+    "totalAmountUSD": 5761.717150409693,
+    "totalTokenAmount": -21001886106.597816,
+    "firstPurchaseTimestamp": 1682623691,
+    "count": 1
+  },
+  "0x4f8a9349ed51dfdba76037354d5e2d34cb204a45": {
+    "totalAmountUSD": 4995.7375195439345,
+    "totalTokenAmount": -16840024423.763878,
+    "firstPurchaseTimestamp": 1682624315,
+    "count": 2
+  },
+  "0x686f0d721e898142a26bcf60e3a1f8fe5da6f918": {
+    "totalAmountUSD": 5671.009271770166,
+    "totalTokenAmount": 21795912820.944633,
+    "firstPurchaseTimestamp": 1682649671,
+    "count": 1
+  },
+  "0xac75364baacb49be508621c0cf80fddc231f70f7": {
+    "totalAmountUSD": 7555.808365131238,
+    "totalTokenAmount": -27634183253.224766,
+    "firstPurchaseTimestamp": 1682702699,
+    "count": 2
+  },
+  "0xb8398a1802fb8f8ea42ba8d7a4618d6b4dce9507": {
+    "totalAmountUSD": 23663.620715754743,
+    "totalTokenAmount": -84999999999,
+    "firstPurchaseTimestamp": 1682709023,
+    "count": 3
+  },
+  "0x50a9310b86fca747b54810b26de626fd72be2f76": {
+    "totalAmountUSD": 2492.7674923950144,
+    "totalTokenAmount": -9178191543.351454,
+    "firstPurchaseTimestamp": 1682636603,
+    "count": 1
+  },
+  "0xf2288e0ffefc1b701df190d96e0472e5a4ce9f13": {
+    "totalAmountUSD": 5954.900590559055,
+    "totalTokenAmount": -22500478039.18339,
+    "firstPurchaseTimestamp": 1682676443,
+    "count": 1
+  },
+  "0xdf0dd3ce1693de397a780152e7975f0751e7115c": {
+    "totalAmountUSD": 4722.235440674538,
+    "totalTokenAmount": -17988566382.639515,
+    "firstPurchaseTimestamp": 1682699111,
+    "count": 1
+  },
+  "0x652d096ad3a6b6059c5253d7fb270f7c2056c14a": {
+    "totalAmountUSD": 5018.303219692629,
+    "totalTokenAmount": -21077334342.731987,
+    "firstPurchaseTimestamp": 1682576903,
+    "count": 2
+  },
+  "0x240e204b8eb025533128b54ed55c141d64db987d": {
+    "totalAmountUSD": 8542.639120982742,
+    "totalTokenAmount": -27978664342.5197,
+    "firstPurchaseTimestamp": 1682710319,
+    "count": 2
+  },
+  "0x7149b95c2b049fd2e30908bf48c3d7ab0355231a": {
+    "totalAmountUSD": 4394.76513733209,
+    "totalTokenAmount": -18402596578.477173,
+    "firstPurchaseTimestamp": 1682590343,
+    "count": 1
+  },
+  "0xf3fd2f825fec34674d4a3e239791fa84214f21d6": {
+    "totalAmountUSD": 2490.2662480966446,
+    "totalTokenAmount": -11123041931.580812,
+    "firstPurchaseTimestamp": 1682572391,
+    "count": 1
+  },
+  "0x4c6b83ca1c59781fab57790a46281bbd93e539fe": {
+    "totalAmountUSD": 9046.300866525104,
+    "totalTokenAmount": -42000000000,
+    "firstPurchaseTimestamp": 1682569379,
+    "count": 2
+  },
+  "0x5293c6003c6ea4b20195ae293d567c18f8ec8dab": {
+    "totalAmountUSD": 4406.574894934891,
+    "totalTokenAmount": -15748879413.569283,
+    "firstPurchaseTimestamp": 1682663567,
+    "count": 1
+  },
+  "0xf509e7ad674a71ee89bf68ab2399c8cd25f99a93": {
+    "totalAmountUSD": 9103.937450716148,
+    "totalTokenAmount": -35392794263.753975,
+    "firstPurchaseTimestamp": 1682621831,
+    "count": 2
+  },
+  "0xdb22ca143f6396ad289c79cdfa5cc47f65884162": {
+    "totalAmountUSD": 3796.348817665416,
+    "totalTokenAmount": -11410255618.085817,
+    "firstPurchaseTimestamp": 1682721827,
+    "count": 1
+  },
+  "0x393effe40fe7ecd23446551d89443e9008aefbcc": {
+    "totalAmountUSD": 3838.894316393552,
+    "totalTokenAmount": -14385258210.40769,
+    "firstPurchaseTimestamp": 1682630327,
+    "count": 1
+  },
+  "0x2c46eb5d6190613d1c8058ada77b8d3a6ef7a05c": {
+    "totalAmountUSD": 3504.1820244297787,
+    "totalTokenAmount": -11534100856.05741,
+    "firstPurchaseTimestamp": 1682716187,
+    "count": 1
+  },
+  "0xaad7c7b902965649672ceffa24dd412d3e679b8d": {
+    "totalAmountUSD": 10234.87547961219,
+    "totalTokenAmount": -41156659427.14865,
+    "firstPurchaseTimestamp": 1682599619,
+    "count": 2
+  },
+  "0x23d35090fe1d86da7153c0dbb05929a8281dc9d7": {
+    "totalAmountUSD": 12007.103135413223,
+    "totalTokenAmount": -36218455267.23371,
+    "firstPurchaseTimestamp": 1682724995,
+    "count": 1
+  },
+  "0x7c6fac4b59932de612f1dd9f569fb9755bc85dab": {
+    "totalAmountUSD": 20340.92197600627,
+    "totalTokenAmount": -81278116145.14905,
+    "firstPurchaseTimestamp": 1682581931,
+    "count": 4
+  },
+  "0xb55d18daf4500af74c3760b308ec1fee5fda28bb": {
+    "totalAmountUSD": 4078.809785226919,
+    "totalTokenAmount": -14474396628.688883,
+    "firstPurchaseTimestamp": 1682667179,
+    "count": 1
+  },
+  "0x7e8ad48336b02e1037702bbac6e541ddf0d9e56e": {
+    "totalAmountUSD": 5240.078523362505,
+    "totalTokenAmount": -19758402422.878906,
+    "firstPurchaseTimestamp": 1682640839,
+    "count": 1
+  },
+  "0x3213b2595021128ca6160ff5a9044c02399c96db": {
+    "totalAmountUSD": 13245.95606374858,
+    "totalTokenAmount": -43437422604.47572,
+    "firstPurchaseTimestamp": 1682713667,
+    "count": 1
+  },
+  "0x102d3b9fecbabce2ad51212bef1451a95bf37fb7": {
+    "totalAmountUSD": 2486.9741005825786,
+    "totalTokenAmount": -8235212472.109408,
+    "firstPurchaseTimestamp": 1682713319,
+    "count": 1
+  },
+  "0xd4b90ccb881a21cee60ae5d3dc205e9b2d39bb5a": {
+    "totalAmountUSD": 2501.784164042642,
+    "totalTokenAmount": -11175234561.119831,
+    "firstPurchaseTimestamp": 1682572499,
+    "count": 1
+  },
+  "0x1a7ea0d335ede1532f8d527b6384a09d0d355263": {
+    "totalAmountUSD": 5694.523226498124,
+    "totalTokenAmount": -17351286380.812424,
+    "firstPurchaseTimestamp": 1682719595,
+    "count": 1
+  },
+  "0x887be660af06ca4681dea991665c23827a2d599c": {
+    "totalAmountUSD": 2835.860567198473,
+    "totalTokenAmount": -10854500444.284683,
+    "firstPurchaseTimestamp": 1682691467,
+    "count": 1
+  },
+  "0xf68448fbf0a4cd22bb9b2707aebeb3895f28fafc": {
+    "totalAmountUSD": 56434.665856309744,
+    "totalTokenAmount": -184459885224.01572,
+    "firstPurchaseTimestamp": 1682624063,
+    "count": 7
+  },
+  "0x536b49ab9b68e95fb358032a810e3e4dc5a4a9d9": {
+    "totalAmountUSD": 2299.206952312819,
+    "totalTokenAmount": -8131547083.355369,
+    "firstPurchaseTimestamp": 1682667815,
+    "count": 1
+  },
+  "0xd7189a81961cb3cc0dd6ec6a1f90bc5f95dfd7f0": {
+    "totalAmountUSD": 3221.1158374859597,
+    "totalTokenAmount": -12534013042.75753,
+    "firstPurchaseTimestamp": 1682627495,
+    "count": 1
+  },
+  "0xea36cb76cf3e9d3c536ff8cb0570bb23cf42e47d": {
+    "totalAmountUSD": 2688.801336857857,
+    "totalTokenAmount": -9819835055.545628,
+    "firstPurchaseTimestamp": 1682623703,
+    "count": 1
+  },
+  "0x9d95af1e75921493fc0b7ad50ea21c929b04793d": {
+    "totalAmountUSD": 29045.88125841425,
+    "totalTokenAmount": 25162490409.19485,
+    "firstPurchaseTimestamp": 1682650739,
+    "count": 7
+  },
+  "0x93e57c95ffd8f1a8690e805c0e9ee883e2113aae": {
+    "totalAmountUSD": 9788.172638187696,
+    "totalTokenAmount": -39153663571.46126,
+    "firstPurchaseTimestamp": 1682593667,
+    "count": 3
+  },
+  "0xbd50c6b57f99eb852e9a0126e1c411b8cc904e2d": {
+    "totalAmountUSD": 2310.1276847381723,
+    "totalTokenAmount": -9598275780.1869,
+    "firstPurchaseTimestamp": 1682616407,
+    "count": 1
+  },
+  "0x5f8bb70d26a1e03fc5c405854ed6380df509f11f": {
+    "totalAmountUSD": 2453.204000547171,
+    "totalTokenAmount": -10535087774.122673,
+    "firstPurchaseTimestamp": 1682587487,
+    "count": 1
+  },
+  "0x210431131e0041014009e687f7aab0e4a5e85a5e": {
+    "totalAmountUSD": 2981.596318894122,
+    "totalTokenAmount": -12536831646.59716,
+    "firstPurchaseTimestamp": 1682588903,
+    "count": 1
+  },
+  "0x7d2550161e8a31d0b9585bb9c88e63e9644af740": {
+    "totalAmountUSD": 6578.654368845932,
+    "totalTokenAmount": -23158281677.261116,
+    "firstPurchaseTimestamp": 1682710295,
+    "count": 1
+  },
+  "0x7f636f161d3151cbf393ae823b2834e95538fe54": {
+    "totalAmountUSD": 14380.816097004485,
+    "totalTokenAmount": 51923860355.89863,
+    "firstPurchaseTimestamp": 1682618675,
+    "count": 3
+  },
+  "0x777bef8d44c5efe02f3c0a705ec3bff613c82a9c": {
+    "totalAmountUSD": 17134.343591944482,
+    "totalTokenAmount": -56023946642.91539,
+    "firstPurchaseTimestamp": 1682712659,
+    "count": 3
+  },
+  "0xbdab86a0192fa9e9a75d325b9b5baf73e069ff55": {
+    "totalAmountUSD": 5521.014064030958,
+    "totalTokenAmount": -21774467130.476864,
+    "firstPurchaseTimestamp": 1682617067,
+    "count": 2
+  },
+  "0x222b6fac990028cf7cf74d0e9c1bb7f5e1324442": {
+    "totalAmountUSD": 2381.303412341133,
+    "totalTokenAmount": -8514828386.788545,
+    "firstPurchaseTimestamp": 1682671871,
+    "count": 1
+  },
+  "0x0333d635d8997a94aa6fa19e6ba94df5e0227b64": {
+    "totalAmountUSD": 10021.102619601174,
+    "totalTokenAmount": -38075873139.0773,
+    "firstPurchaseTimestamp": 1682651771,
+    "count": 1
+  },
+  "0x0f387a058a060afca1d7862e53f507d6e318e8c3": {
+    "totalAmountUSD": 2576.8065278532,
+    "totalTokenAmount": -9646770574.147081,
+    "firstPurchaseTimestamp": 1682676203,
+    "count": 1
+  },
+  "0x29acfee63334df5a62e122bcd2d20e4001052cb3": {
+    "totalAmountUSD": 3777.796932170854,
+    "totalTokenAmount": -13767423901.050129,
+    "firstPurchaseTimestamp": 1682703419,
+    "count": 1
+  },
+  "0x3db02f77839b15522004890c4d30fc7dafdae318": {
+    "totalAmountUSD": 7241.051953965827,
+    "totalTokenAmount": -27752261904.66276,
+    "firstPurchaseTimestamp": 1682680691,
+    "count": 1
+  },
+  "0xc37016f3023d0218718ca22a423d9dd00eb58275": {
+    "totalAmountUSD": 2100.7062518932694,
+    "totalTokenAmount": -9351516075.488266,
+    "firstPurchaseTimestamp": 1682605727,
+    "count": 1
+  },
+  "0x2a3f8405e8b38e5d5849bd43429c927b4ca1fbc7": {
+    "totalAmountUSD": 2222.434823706713,
+    "totalTokenAmount": -8237791227.573832,
+    "firstPurchaseTimestamp": 1682633927,
+    "count": 1
+  },
+  "0x8e611cf022f429eb5e9150e295486d947ae7bb20": {
+    "totalAmountUSD": 3724.5784263627515,
+    "totalTokenAmount": -16423828730.510334,
+    "firstPurchaseTimestamp": 1682575859,
+    "count": 1
+  },
+  "0xbc66ac2e63aad95bfa9087ff84458830403ca165": {
+    "totalAmountUSD": 3313.488195124387,
+    "totalTokenAmount": -14810997009.900404,
+    "firstPurchaseTimestamp": 1682572091,
+    "count": 1
+  },
+  "0x401975cde5544cfe2ebdb050f6c40a657ed85515": {
+    "totalAmountUSD": 2351.2027109698756,
+    "totalTokenAmount": -9492517788.451412,
+    "firstPurchaseTimestamp": 1682617583,
+    "count": 1
+  },
+  "0x4e5ed3e8964da2ee33752807a35641cb0c9aecca": {
+    "totalAmountUSD": 2864.5801234699006,
+    "totalTokenAmount": -11036650449.678549,
+    "firstPurchaseTimestamp": 1682648519,
+    "count": 1
+  },
+  "0xdecd504c466d891b7833de68838f0e2730e23a17": {
+    "totalAmountUSD": 3084.6672750262137,
+    "totalTokenAmount": -9972251190.542192,
+    "firstPurchaseTimestamp": 1682715287,
+    "count": 1
+  },
+  "0x61f3534c21316631114daf71631d385431d397ad": {
+    "totalAmountUSD": 7591.2698177777,
+    "totalTokenAmount": -29384281030.053703,
+    "firstPurchaseTimestamp": 1682618135,
+    "count": 2
+  },
+  "0x2991301f234f94be77b5a3adffa770b81ccc0953": {
+    "totalAmountUSD": 9557.443176879884,
+    "totalTokenAmount": -35189055880.89506,
+    "firstPurchaseTimestamp": 1682658551,
+    "count": 1
+  },
+  "0x17843363a6a4d0e7b6c2f323129208b7e53ada4d": {
+    "totalAmountUSD": 24121.59050931983,
+    "totalTokenAmount": -90266350280.5166,
+    "firstPurchaseTimestamp": 1682622815,
+    "count": 3
+  },
+  "0xd304e067310cb9fa91352876974d34aed5a365b6": {
+    "totalAmountUSD": 2397.801805216048,
+    "totalTokenAmount": -10809183333.632877,
+    "firstPurchaseTimestamp": 1682571023,
+    "count": 1
+  },
+  "0x4a65ac88a1399f82173124c9e8c8387f7059d273": {
+    "totalAmountUSD": 23375.011107150465,
+    "totalTokenAmount": -93810333747.59692,
+    "firstPurchaseTimestamp": 1682566739,
+    "count": 4
+  },
+  "0x72ff01b779382d5d2e76e304b83253e42436bb8d": {
+    "totalAmountUSD": 10696.526351122158,
+    "totalTokenAmount": -47736209974.366394,
+    "firstPurchaseTimestamp": 1682604455,
+    "count": 2
+  },
+  "0x2d9ee789691f6660eacf0d3a9300f6685af1f552": {
+    "totalAmountUSD": 7690.116489894197,
+    "totalTokenAmount": -27898106539.193882,
+    "firstPurchaseTimestamp": 1682623943,
+    "count": 1
+  },
+  "0xf4bceaba297d282d9291b960ee1bdf6b8c1bb8f6": {
+    "totalAmountUSD": 5881.92458337496,
+    "totalTokenAmount": -27591765082.109097,
+    "firstPurchaseTimestamp": 1682566871,
+    "count": 1
+  },
+  "0xb0f582963d54318867c7076efae2e9d96c0eacc6": {
+    "totalAmountUSD": 3022.237545736683,
+    "totalTokenAmount": -10850566448.306786,
+    "firstPurchaseTimestamp": 1682703791,
+    "count": 1
+  },
+  "0xab3dae1dc3aadf89d397b5b0f64b87ec172c2f73": {
+    "totalAmountUSD": 2802.419305977046,
+    "totalTokenAmount": -10079032273.300087,
+    "firstPurchaseTimestamp": 1682666867,
+    "count": 1
+  },
+  "0x1c1919c5160f6e49254019c63a52748c3bc47279": {
+    "totalAmountUSD": 5397.26719707854,
+    "totalTokenAmount": -21396559469.54523,
+    "firstPurchaseTimestamp": 1682617367,
+    "count": 1
+  },
+  "0x023ab8e20a4682d315daef4c91db96bd77934d66": {
+    "totalAmountUSD": 6624.166521596198,
+    "totalTokenAmount": -24651188589.499084,
+    "firstPurchaseTimestamp": 1682585051,
+    "count": 2
+  },
+  "0x8de653efb72c45d965b334bd0afe733b5c48983e": {
+    "totalAmountUSD": 6963.9954624618495,
+    "totalTokenAmount": -26563308910.12651,
+    "firstPurchaseTimestamp": 1682625095,
+    "count": 1
+  },
+  "0x238451d214701ba055c5008ae63facdf651bd5ee": {
+    "totalAmountUSD": 2266.9004027565315,
+    "totalTokenAmount": -8255968400.909769,
+    "firstPurchaseTimestamp": 1682708267,
+    "count": 1
+  },
+  "0xe9df67ea6157ab3e9a27aad19cbc7e639621f86a": {
+    "totalAmountUSD": 3796.524152153892,
+    "totalTokenAmount": -12264924163.49239,
+    "firstPurchaseTimestamp": 1682714771,
+    "count": 1
+  },
+  "0x08cc5576753b7ad6c6830ac5f91b5c64bfe86249": {
+    "totalAmountUSD": 10315.690242415336,
+    "totalTokenAmount": -38267438239.97971,
+    "firstPurchaseTimestamp": 1682653979,
+    "count": 1
+  },
+  "0x7b41b76d6c816ba19671c5120e957de9992e7199": {
+    "totalAmountUSD": 7644.106157299406,
+    "totalTokenAmount": -27847860122.376804,
+    "firstPurchaseTimestamp": 1682671247,
+    "count": 2
+  },
+  "0x594c6b641626f4ad29aa2bdd046d7ba678f1b7ce": {
+    "totalAmountUSD": 4994.9259093006485,
+    "totalTokenAmount": -14449578730.243196,
+    "firstPurchaseTimestamp": 1682721227,
+    "count": 1
+  },
+  "0x60a531d4055fb1a8ed226d311275704da9596cab": {
+    "totalAmountUSD": 5896.922383044144,
+    "totalTokenAmount": -23102669774.290585,
+    "firstPurchaseTimestamp": 1682563871,
+    "count": 2
+  },
+  "0xdead29f8b16e288c18110b460f59f24d502f4007": {
+    "totalAmountUSD": 11307.216436622093,
+    "totalTokenAmount": -44433613705.54925,
+    "firstPurchaseTimestamp": 1682591315,
+    "count": 3
+  },
+  "0xec471594d2e8496eac699d44bafc6f014033f4d6": {
+    "totalAmountUSD": 3417.2355621121906,
+    "totalTokenAmount": -11272227612.412823,
+    "firstPurchaseTimestamp": 1682713127,
+    "count": 1
+  },
+  "0x94ec17632b11c1772c382bda3666a7e4980bc519": {
+    "totalAmountUSD": 9542.84421045338,
+    "totalTokenAmount": -31890719238.92977,
+    "firstPurchaseTimestamp": 1682626151,
+    "count": 2
+  },
+  "0xe66a782880cb2e8f760d2a6c95b8988dc56fec63": {
+    "totalAmountUSD": 2290.8572059897206,
+    "totalTokenAmount": -8750821584.487276,
+    "firstPurchaseTimestamp": 1682679659,
+    "count": 1
+  },
+  "0x098763139957d4bb05541c451b55b40122f04e36": {
+    "totalAmountUSD": 12715.429155015447,
+    "totalTokenAmount": -48845320100,
+    "firstPurchaseTimestamp": 1682622551,
+    "count": 2
+  },
+  "0x4d1bbef55684a58ff1eea78526c8b2b7c7d6c07a": {
+    "totalAmountUSD": 20569.99385993233,
+    "totalTokenAmount": -82778628783.27028,
+    "firstPurchaseTimestamp": 1682616875,
+    "count": 1
+  },
+  "0x4d85b56c459fe2aae459b1bb0c36b33592998d0b": {
+    "totalAmountUSD": 2359.768063230625,
+    "totalTokenAmount": -10000000000,
+    "firstPurchaseTimestamp": 1682609003,
+    "count": 1
+  },
+  "0xf332720d9daded8da18740851dc38b84d0d74742": {
+    "totalAmountUSD": 2401.7449591871223,
+    "totalTokenAmount": 8880658037.174215,
+    "firstPurchaseTimestamp": 1682700611,
+    "count": 1
+  },
+  "0x0342dfdff798fe89f6bb096220a90ba8ab72958c": {
+    "totalAmountUSD": 2364.799901654303,
+    "totalTokenAmount": -10062605515.720348,
+    "firstPurchaseTimestamp": 1682610335,
+    "count": 1
+  },
+  "0x92e47cb06c1da4dab614b2bf3f1d34230a06f8c4": {
+    "totalAmountUSD": 3814.562939756016,
+    "totalTokenAmount": -13944637602.804129,
+    "firstPurchaseTimestamp": 1682619383,
+    "count": 1
+  },
+  "0xc225679d482b7f1b9b4765d903fced1b1cbc93a8": {
+    "totalAmountUSD": 7697.851505501945,
+    "totalTokenAmount": -33303366193.196102,
+    "firstPurchaseTimestamp": 1682555531,
+    "count": 1
+  },
+  "0xf88c6f6b080d2a43743d34920d15d9232db40cb8": {
+    "totalAmountUSD": 2400.4761293215915,
+    "totalTokenAmount": -9019446007.10954,
+    "firstPurchaseTimestamp": 1682623487,
+    "count": 1
+  },
+  "0xfa53611db3f779335f1fe1ef9ea141f25a8ca517": {
+    "totalAmountUSD": 15548.68253336339,
+    "totalTokenAmount": -52020396816.13185,
+    "firstPurchaseTimestamp": 1682653703,
+    "count": 3
+  },
+  "0x78e2bf8f34062cb4349e7ca79fb6291a1ff67486": {
+    "totalAmountUSD": 6684.7935430174875,
+    "totalTokenAmount": -24661382454.518982,
+    "firstPurchaseTimestamp": 1682656271,
+    "count": 2
+  },
+  "0xb576652a3f98d2da5ee328d5792638e7c0c37f1e": {
+    "totalAmountUSD": 2847.261613249062,
+    "totalTokenAmount": -8712893568.925133,
+    "firstPurchaseTimestamp": 1682720387,
+    "count": 1
+  },
+  "0x055f86a0aaf702d7324076ae9c5b9aa203204ccd": {
+    "totalAmountUSD": 2724.84289104155,
+    "totalTokenAmount": -8120444218.892001,
+    "firstPurchaseTimestamp": 1682724335,
+    "count": 1
+  },
+  "0x22cd83b563085e16df6cd989183af1f92e13b82b": {
+    "totalAmountUSD": 6853.513937255886,
+    "totalTokenAmount": -26036385097.198265,
+    "firstPurchaseTimestamp": 1682687927,
+    "count": 1
+  },
+  "0xdf3a772b78ed01631356e6d16b9d6d99171c51a1": {
+    "totalAmountUSD": 7220.137519213254,
+    "totalTokenAmount": -21042097080.07414,
+    "firstPurchaseTimestamp": 1682720855,
+    "count": 1
+  },
+  "0x91d18ace95b03de602e61fdb0bbdf4002e500f28": {
+    "totalAmountUSD": 2468.003461525471,
+    "totalTokenAmount": -8207579766.597492,
+    "firstPurchaseTimestamp": 1682712611,
+    "count": 1
+  },
+  "0x87f7d434f1ec9455199bee447960cecd15dcabae": {
+    "totalAmountUSD": 10838.52502424772,
+    "totalTokenAmount": -31403230735.108257,
+    "firstPurchaseTimestamp": 1682720999,
+    "count": 2
+  },
+  "0x98e42780a95adacf4823e96c1ef824e96b061331": {
+    "totalAmountUSD": 2004.2830405001885,
+    "totalTokenAmount": -8862722563.646988,
+    "firstPurchaseTimestamp": 1682575403,
+    "count": 1
+  },
+  "0xe6f120b318046f7b8e27b95ba550fadfca69a0f0": {
+    "totalAmountUSD": 20041.843922223852,
+    "totalTokenAmount": -69096151894.97086,
+    "firstPurchaseTimestamp": 1682710379,
+    "count": 2
+  },
+  "0x0eb35e07e21e73d812d480cd308d645c227b53bc": {
+    "totalAmountUSD": 4157.924852983842,
+    "totalTokenAmount": -16132145055.655716,
+    "firstPurchaseTimestamp": 1682694239,
+    "count": 1
+  },
+  "0xfaaa76f91bccc0cd2110cb40d4e0bd892586c3b6": {
+    "totalAmountUSD": 26924.35984757371,
+    "totalTokenAmount": -100306212042.95096,
+    "firstPurchaseTimestamp": 1682608043,
+    "count": 4
+  },
+  "0xcc94fc44fdc8d89033b27fc8b359d90af62daafb": {
+    "totalAmountUSD": 3067.740095941748,
+    "totalTokenAmount": -11845448248.296446,
+    "firstPurchaseTimestamp": 1682628863,
+    "count": 1
+  },
+  "0xd669621c0f97b11f8e74fa57bbf7e33dfb093f91": {
+    "totalAmountUSD": 11495.260025632939,
+    "totalTokenAmount": -38327143996.741776,
+    "firstPurchaseTimestamp": 1682643755,
+    "count": 2
+  },
+  "0xe27baebd7b14602de3797974db9f5f4f8dcb6679": {
+    "totalAmountUSD": 3851.146584161829,
+    "totalTokenAmount": -14889303699.731632,
+    "firstPurchaseTimestamp": 1682642663,
+    "count": 1
+  },
+  "0xc1cb4c8b5fcd19f8feb7dbe687c648b8eeec730a": {
+    "totalAmountUSD": 6308.156416754687,
+    "totalTokenAmount": -26990000000,
+    "firstPurchaseTimestamp": 1682608163,
+    "count": 1
+  },
+  "0xac6185e014090787e91e6bf1d8bb2056611d5c4a": {
+    "totalAmountUSD": 2893.005833497701,
+    "totalTokenAmount": -10902521679.954445,
+    "firstPurchaseTimestamp": 1682678003,
+    "count": 1
+  },
+  "0xd7274d3497d37602c48579af39063e73ccb47b2f": {
+    "totalAmountUSD": 5018.540277440764,
+    "totalTokenAmount": -17110360612.53035,
+    "firstPurchaseTimestamp": 1682628239,
+    "count": 1
+  },
+  "0x9bf2873be63ac14ed70a318b1f8c5499b03c1dc1": {
+    "totalAmountUSD": 16703.403260911502,
+    "totalTokenAmount": -51279242534.984215,
+    "firstPurchaseTimestamp": 1682722163,
+    "count": 2
+  },
+  "0x35b2a28d726443257021fa957dcd83bf42927667": {
+    "totalAmountUSD": 5118.264415674843,
+    "totalTokenAmount": -20000000000,
+    "firstPurchaseTimestamp": 1682689883,
+    "count": 1
+  },
+  "0x702d948cb6519fe2ebc189b6ff76ea8f2b294aa6": {
+    "totalAmountUSD": 4474.7747879150065,
+    "totalTokenAmount": 16190863696.114378,
+    "firstPurchaseTimestamp": 1682702075,
+    "count": 1
+  },
+  "0x9af7b1095292279d8b6ae8a8c75eaad44ee2890d": {
+    "totalAmountUSD": 2864.5801234699006,
+    "totalTokenAmount": -11179354106.87432,
+    "firstPurchaseTimestamp": 1682650691,
+    "count": 1
+  },
+  "0xc246581708e6ea1261a7a4b14798e6eb265e61fc": {
+    "totalAmountUSD": 6724.757386892076,
+    "totalTokenAmount": -20812741688.925323,
+    "firstPurchaseTimestamp": 1682720219,
+    "count": 1
+  },
+  "0xa96b120b263da42119c28b98e595fadfc455868b": {
+    "totalAmountUSD": 3332.7267430085803,
+    "totalTokenAmount": -14007868947.506845,
+    "firstPurchaseTimestamp": 1682586791,
+    "count": 1
+  },
+  "0x843f9b7cd5928474b93537cfc0a96690c86ce1d1": {
+    "totalAmountUSD": 17121.521664875312,
+    "totalTokenAmount": -55603832054.55179,
+    "firstPurchaseTimestamp": 1682714051,
+    "count": 1
+  },
+  "0xe49c9d50dd985a02f99476813cae464d78c137d6": {
+    "totalAmountUSD": 5987.910174682006,
+    "totalTokenAmount": -22775901751.92646,
+    "firstPurchaseTimestamp": 1682618891,
+    "count": 1
+  },
+  "0xb37287e045646fb6a40fc7424cbb48e9feccaa64": {
+    "totalAmountUSD": 4055.1689393229985,
+    "totalTokenAmount": -15757199259.263905,
+    "firstPurchaseTimestamp": 1682628563,
+    "count": 1
+  },
+  "0x03f25cc4d692ea191f24d7ac0c3730a07912f3b7": {
+    "totalAmountUSD": 4347.244491663963,
+    "totalTokenAmount": -14343662741.588043,
+    "firstPurchaseTimestamp": 1682713055,
+    "count": 2
+  },
+  "0xf15c5513f59d078e4db3c5769884f5841c6266bb": {
+    "totalAmountUSD": 6124.4606282049745,
+    "totalTokenAmount": 25874953608.898285,
+    "firstPurchaseTimestamp": 1682584811,
+    "count": 1
+  },
+  "0xd4be42ffe0e8896a6246b97b5df508588735f756": {
+    "totalAmountUSD": 2677.8298579073357,
+    "totalTokenAmount": -10000000000,
+    "firstPurchaseTimestamp": 1682624387,
+    "count": 1
+  },
+  "0xf11b3c98512d0541ff3b41c180b045b72d0368ae": {
+    "totalAmountUSD": 2835.421493907839,
+    "totalTokenAmount": -10021664882.320223,
+    "firstPurchaseTimestamp": 1682709923,
+    "count": 1
+  },
+  "0x82bab6b39806126fb9047afc17577c482349d280": {
+    "totalAmountUSD": 2766.8518182201274,
+    "totalTokenAmount": -9905685327.425856,
+    "firstPurchaseTimestamp": 1682671523,
+    "count": 1
+  },
+  "0xd70d4d38b4f8ebce6dfab6630680b290e1609feb": {
+    "totalAmountUSD": 7593.334560904857,
+    "totalTokenAmount": -24309616253.46544,
+    "firstPurchaseTimestamp": 1682723051,
+    "count": 1
+  },
+  "0xae9c813b493d02e5a4ce7a58a7680ee19fc2a8f8": {
+    "totalAmountUSD": 2005.8879443201229,
+    "totalTokenAmount": -6533654924.317949,
+    "firstPurchaseTimestamp": 1682716007,
+    "count": 1
+  },
+  "0x37736cb01e41a7ad592fc3b3e472787769b3234d": {
+    "totalAmountUSD": 4799.407367543889,
+    "totalTokenAmount": -21403066961.167618,
+    "firstPurchaseTimestamp": 1682556131,
+    "count": 1
+  },
+  "0xc161d3d295a12f27040f9bf4060e91ed20c5bd4f": {
+    "totalAmountUSD": 4289.65019707897,
+    "totalTokenAmount": -17751164990.48062,
+    "firstPurchaseTimestamp": 1682570663,
+    "count": 2
+  },
+  "0xa72e34aa54094049e7fe3fb4f62d4e2c2471a392": {
+    "totalAmountUSD": 5030.380479273517,
+    "totalTokenAmount": -16327850312.492203,
+    "firstPurchaseTimestamp": 1682715275,
+    "count": 1
+  },
+  "0x71455451df7868da52e45f9a3a39852f4ec1b654": {
+    "totalAmountUSD": 2437.6978909099053,
+    "totalTokenAmount": -9110607314.913118,
+    "firstPurchaseTimestamp": 1682630339,
+    "count": 1
+  },
+  "0xdef8d856a44dcf62077c2ec9c9a10388a7cf1f29": {
+    "totalAmountUSD": 5185.545435368725,
+    "totalTokenAmount": -18869676823.548042,
+    "firstPurchaseTimestamp": 1682623823,
+    "count": 1
+  },
+  "0xd6e06c821be40ae248632ff617e3bd0f70adaa7c": {
+    "totalAmountUSD": 2539.426707156211,
+    "totalTokenAmount": -10000000000,
+    "firstPurchaseTimestamp": 1682689655,
+    "count": 1
+  },
+  "0x50864e33e28a68d7f60ff449a7b8f2bf6ba262d3": {
+    "totalAmountUSD": 2405.1177082527092,
+    "totalTokenAmount": -8887028702.085989,
+    "firstPurchaseTimestamp": 1682633087,
+    "count": 1
+  },
+  "0x7d3fdec79027ae95b756502bee027490ca367695": {
+    "totalAmountUSD": 4176.779785375923,
+    "totalTokenAmount": -14203947505.472372,
+    "firstPurchaseTimestamp": 1682712023,
+    "count": 1
+  },
+  "0x1e63ff3a030e1eb13b4a27750ca0777198c7b030": {
+    "totalAmountUSD": 3197.243453877415,
+    "totalTokenAmount": -11867330634.361046,
+    "firstPurchaseTimestamp": 1682623619,
+    "count": 1
+  },
+  "0x29d6c8bb01ed030cc920745ae0c2d516c10f2f50": {
+    "totalAmountUSD": 2288.7377638536095,
+    "totalTokenAmount": -8672033724.618172,
+    "firstPurchaseTimestamp": 1682618987,
+    "count": 1
+  },
+  "0x7452e2f865009502cc930617bdd750e6650dc378": {
+    "totalAmountUSD": 10084.692562944907,
+    "totalTokenAmount": -37403401983.90159,
+    "firstPurchaseTimestamp": 1682624519,
+    "count": 2
+  },
+  "0xa4aef57581ed9161cd72e3b99043e38c851dc801": {
+    "totalAmountUSD": 8119.485302253581,
+    "totalTokenAmount": -34050429641.324135,
+    "firstPurchaseTimestamp": 1682584067,
+    "count": 2
+  },
+  "0xc5479fece226a3b62c0b8599252a58237359a652": {
+    "totalAmountUSD": 5729.160246939801,
+    "totalTokenAmount": -21616107303.42111,
+    "firstPurchaseTimestamp": 1682644523,
+    "count": 1
+  },
+  "0x0090eb43008a030065000000e70099482c00b6df": {
+    "totalAmountUSD": 5087.0453835543685,
+    "totalTokenAmount": 23109862909.196457,
+    "firstPurchaseTimestamp": 1682566739,
+    "count": 2
+  },
+  "0x4aa5c2fe353745d3d6000f1be402c72da500fcaa": {
+    "totalAmountUSD": 2858.224649106821,
+    "totalTokenAmount": -10827817869.066793,
+    "firstPurchaseTimestamp": 1682640371,
+    "count": 1
+  },
+  "0x5cbffebdf2f12a8984b9eff74a85acab24730fff": {
+    "totalAmountUSD": 2360.2319371264416,
+    "totalTokenAmount": -9867788636.394875,
+    "firstPurchaseTimestamp": 1682591351,
+    "count": 1
+  },
+  "0xfe0174255e410defaaf58b06e009e0ebcd74db59": {
+    "totalAmountUSD": 2215.98409847636,
+    "totalTokenAmount": -8191515894.111935,
+    "firstPurchaseTimestamp": 1682656763,
+    "count": 1
+  },
+  "0xfe5573c66273313034f7ff6050c54b5402553716": {
+    "totalAmountUSD": 2931.208027705497,
+    "totalTokenAmount": -9099519962.08731,
+    "firstPurchaseTimestamp": 1682715539,
+    "count": 1
+  },
+  "0x36c7a68162d200cfdc8940f4d99ada79a305e7d2": {
+    "totalAmountUSD": 9117.3018132175,
+    "totalTokenAmount": -27022194773.731804,
+    "firstPurchaseTimestamp": 1682721623,
+    "count": 1
+  },
+  "0x93e66231386fdbcade355ae81edbd8421daf7bbd": {
+    "totalAmountUSD": 7179.7768147080715,
+    "totalTokenAmount": 30727532562.32363,
+    "firstPurchaseTimestamp": 1682579159,
+    "count": 1
+  },
+  "0xba0c3e4a1ef00d04820ea62a3e85523cc1d6f7f8": {
+    "totalAmountUSD": 2828.6217382953864,
+    "totalTokenAmount": -9258351956.9681,
+    "firstPurchaseTimestamp": 1682713871,
+    "count": 1
+  },
+  "0x10cbc9e6bd4e4351d59e1e9dd06e9fdb7da017a1": {
+    "totalAmountUSD": 7593.048304307784,
+    "totalTokenAmount": -24573042238.31364,
+    "firstPurchaseTimestamp": 1682714531,
+    "count": 1
+  },
+  "0xdb7d2092aca9115002341c3bccba5d28c10af980": {
+    "totalAmountUSD": 15256.98399738535,
+    "totalTokenAmount": -56632795678.34305,
+    "firstPurchaseTimestamp": 1682617691,
+    "count": 2
+  },
+  "0x0a4ff6219bafd8bd3174367861eb0f8ffb0df3ec": {
+    "totalAmountUSD": 2860.922204817012,
+    "totalTokenAmount": -10738397184.601116,
+    "firstPurchaseTimestamp": 1682618675,
+    "count": 1
+  },
+  "0xdb270f40269d0714d3b3ec8e3ca79932d8aedda7": {
+    "totalAmountUSD": 2861.3396421146886,
+    "totalTokenAmount": -10697301314.360844,
+    "firstPurchaseTimestamp": 1682683067,
+    "count": 1
+  },
+  "0xb424d0a3023a3036c8ffab075f9453d604fa8f03": {
+    "totalAmountUSD": 5761.717150409693,
+    "totalTokenAmount": -20869493882.876698,
+    "firstPurchaseTimestamp": 1682623835,
+    "count": 1
+  },
+  "0xa6c88571d0028f47adba983a7240bf12af94633e": {
+    "totalAmountUSD": 3796.348817665416,
+    "totalTokenAmount": -11000062318.55688,
+    "firstPurchaseTimestamp": 1682721263,
+    "count": 1
+  },
+  "0x1dd3e55ab77ee5d7cb833736b60009a133f1de78": {
+    "totalAmountUSD": 4946.197728318858,
+    "totalTokenAmount": -18027441110.272636,
+    "firstPurchaseTimestamp": 1682702459,
+    "count": 1
+  },
+  "0x323dc2a20e0f9db9b63a47b775fc29dda713c31d": {
+    "totalAmountUSD": 2847.385176947274,
+    "totalTokenAmount": -9107758939.498747,
+    "firstPurchaseTimestamp": 1682715623,
+    "count": 1
+  },
+  "0x16701552e6a60f58f54b5647be33da8250b86ba9": {
+    "totalAmountUSD": 2472.6818886870683,
+    "totalTokenAmount": -11777352683.44398,
+    "firstPurchaseTimestamp": 1682568899,
+    "count": 1
+  },
+  "0xdee0a5da68ea787c5c441eb7482f61157fe8dec5": {
+    "totalAmountUSD": 9092.29890114155,
+    "totalTokenAmount": -40000000000,
+    "firstPurchaseTimestamp": 1682606843,
+    "count": 1
+  },
+  "0x556a2d6202498aca3ca3d6e065c8790c154cedd0": {
+    "totalAmountUSD": 2543.4109755618997,
+    "totalTokenAmount": -7898803100.351208,
+    "firstPurchaseTimestamp": 1682719283,
+    "count": 1
+  },
+  "0xb8eabd2872cbe1912d56e0f63bbcd9dc7291d0d3": {
+    "totalAmountUSD": 2515.0939987045103,
+    "totalTokenAmount": 7844920446.064554,
+    "firstPurchaseTimestamp": 1682723531,
+    "count": 1
+  },
+  "0x3b88cf2f5d5952cc54acd8605c012f1c3ecb1f03": {
+    "totalAmountUSD": 9059.586981920536,
+    "totalTokenAmount": -34100729109.464775,
+    "firstPurchaseTimestamp": 1682618915,
+    "count": 2
+  },
+  "0xb251479a9fca2aa86b17237fce134f06b8a1fc15": {
+    "totalAmountUSD": 2042.3942354181868,
+    "totalTokenAmount": -7673933466.751931,
+    "firstPurchaseTimestamp": 1682652971,
+    "count": 1
+  },
+  "0x3d145930a87880edfb5687a45783429e1e7ebfa3": {
+    "totalAmountUSD": 8991.859771564692,
+    "totalTokenAmount": -34152255924.799824,
+    "firstPurchaseTimestamp": 1682650475,
+    "count": 2
+  },
+  "0x6a3cdd5fe6ec26a1a9cdec3ba852aff6eec55eca": {
+    "totalAmountUSD": 2505.2791610429545,
+    "totalTokenAmount": -8746305957.200932,
+    "firstPurchaseTimestamp": 1682710355,
+    "count": 1
+  },
+  "0x87b46a4124ed14eecbe114d8253912e9499a8554": {
+    "totalAmountUSD": 9669.47022416951,
+    "totalTokenAmount": -42732484782.72726,
+    "firstPurchaseTimestamp": 1682606771,
+    "count": 2
+  },
+  "0x01c7bcfa641699002aae3f567b72b13f2220513b": {
+    "totalAmountUSD": 4650.527301640134,
+    "totalTokenAmount": -13480156118.63474,
+    "firstPurchaseTimestamp": 1682721131,
+    "count": 1
+  },
+  "0x6cd22a1d90eeba4bfd0080ad9f121d4a33b1fda9": {
+    "totalAmountUSD": 2212.8996125817175,
+    "totalTokenAmount": 8617000000,
+    "firstPurchaseTimestamp": 1682619959,
+    "count": 1
+  },
+  "0x2176a66df6365084e021218a3ae6db1cb093563e": {
+    "totalAmountUSD": 2809.4817726442957,
+    "totalTokenAmount": -12042343665.376009,
+    "firstPurchaseTimestamp": 1682611655,
+    "count": 1
+  },
+  "0x9b61163ad92ee7e36ff6566ca6190a92b6690be6": {
+    "totalAmountUSD": 5364.525959051171,
+    "totalTokenAmount": -19426927569.807648,
+    "firstPurchaseTimestamp": 1682662991,
+    "count": 1
+  },
+  "0xbd6af66d5a120ca744fc619f916cef743f967c3c": {
+    "totalAmountUSD": 2855.6086824227386,
+    "totalTokenAmount": -10896168700.480766,
+    "firstPurchaseTimestamp": 1682688971,
+    "count": 1
+  },
+  "0x4644969512f31bd45719fbc5d46ce80a4c7311c3": {
+    "totalAmountUSD": 7257.849174518883,
+    "totalTokenAmount": -23648006065.71267,
+    "firstPurchaseTimestamp": 1682712791,
+    "count": 1
+  },
+  "0xfdfdeb6139b560cf1db1db0991693eb180ee6956": {
+    "totalAmountUSD": 3738.5693669162188,
+    "totalTokenAmount": -15808203275.575413,
+    "firstPurchaseTimestamp": 1682610155,
+    "count": 1
+  },
+  "0xe7634e661d0caa1952ad589cffbcfaae386d2307": {
+    "totalAmountUSD": 8585.618527714334,
+    "totalTokenAmount": -32542220810.863525,
+    "firstPurchaseTimestamp": 1682685479,
+    "count": 1
+  },
+  "0x96c471e7f2054dd2c2710db5686f5ca7804f1d66": {
+    "totalAmountUSD": 2046.7022646018859,
+    "totalTokenAmount": -7935814500.434267,
+    "firstPurchaseTimestamp": 1682622491,
+    "count": 1
+  },
+  "0x44ac08881b47d569075fe07b5378eea10c27eca9": {
+    "totalAmountUSD": 4885.550426993032,
+    "totalTokenAmount": -17793858470.516453,
+    "firstPurchaseTimestamp": 1682664383,
+    "count": 1
+  },
+  "0x1bb168cafc4422cf67445d1eab6879a06fb1aff7": {
+    "totalAmountUSD": 3279.120290004399,
+    "totalTokenAmount": -12162083800.297976,
+    "firstPurchaseTimestamp": 1682700647,
+    "count": 1
+  },
+  "0x7e57f82fee4773bb37541da0ef148fcab116f525": {
+    "totalAmountUSD": 2015.8547000227763,
+    "totalTokenAmount": -6574701103.592196,
+    "firstPurchaseTimestamp": 1682717663,
+    "count": 1
+  },
+  "0x306feaa9d555b0f97719352043ddc03b2f108dbd": {
+    "totalAmountUSD": 2874.0086903910237,
+    "totalTokenAmount": -10201973480.663458,
+    "firstPurchaseTimestamp": 1682667359,
+    "count": 1
+  },
+  "0x95a208e16a49937d239f2ee20dba6797c5a178d3": {
+    "totalAmountUSD": 2492.530112340326,
+    "totalTokenAmount": -9806738011.961134,
+    "firstPurchaseTimestamp": 1682627003,
+    "count": 1
+  },
+  "0x6a718975bb5f125894e61b6ffe5c93e6c9c59af6": {
+    "totalAmountUSD": 4352.703736894283,
+    "totalTokenAmount": -12711177808.952068,
+    "firstPurchaseTimestamp": 1682721119,
+    "count": 1
+  },
+  "0xc338abbdacc7ff4411dfe9c94c3e5942b1322e81": {
+    "totalAmountUSD": 3586.7654147314283,
+    "totalTokenAmount": -15259884827.99574,
+    "firstPurchaseTimestamp": 1682616455,
+    "count": 1
+  },
+  "0xfc35515a1bafb9def052d82459598cf74edb8888": {
+    "totalAmountUSD": 3033.673726256841,
+    "totalTokenAmount": 11465430025.528101,
+    "firstPurchaseTimestamp": 1682640875,
+    "count": 1
+  },
+  "0xcfd0b8eca784aa7262a05263486f6b798fb70103": {
+    "totalAmountUSD": 2424.368402155097,
+    "totalTokenAmount": -10159864506.20496,
+    "firstPurchaseTimestamp": 1682589407,
+    "count": 1
+  },
+  "0xe8829ecbcfec812756c7d4ba6490dd1c829e9e12": {
+    "totalAmountUSD": 3627.944030136595,
+    "totalTokenAmount": 14210592509.583706,
+    "firstPurchaseTimestamp": 1682642123,
+    "count": 1
+  },
+  "0xb63a61c02b9a804771c647b03b49e4c3585c9496": {
+    "totalAmountUSD": 10014.7516152862,
+    "totalTokenAmount": -39497134664.66089,
+    "firstPurchaseTimestamp": 1682689883,
+    "count": 1
+  },
+  "0x2d32c0ff2397e42dd87a0fe148a2c58513490d63": {
+    "totalAmountUSD": 3586.752220805206,
+    "totalTokenAmount": -10727901717.869223,
+    "firstPurchaseTimestamp": 1682720831,
+    "count": 1
+  },
+  "0x24902aa0cf0000a08c0ea0b003b0c0bf600000e0": {
+    "totalAmountUSD": 3271.2040671125396,
+    "totalTokenAmount": 12111421560.90786,
+    "firstPurchaseTimestamp": 1682619479,
+    "count": 1
+  },
+  "0x3fb65feeab83bf60b0d1ffbc4217d2d97a35c8d4": {
+    "totalAmountUSD": 2381.9145310204594,
+    "totalTokenAmount": -9291433686.805656,
+    "firstPurchaseTimestamp": 1682642291,
+    "count": 1
+  },
+  "0xb8adcc8e382a7c43bdfa2e1c47059a1afec10e06": {
+    "totalAmountUSD": 2004.5000552410056,
+    "totalTokenAmount": -7732054159.63872,
+    "firstPurchaseTimestamp": 1682679995,
+    "count": 1
+  },
+  "0x1a49ae014da3a8ff3029ef7035599491cd96c2c2": {
+    "totalAmountUSD": 5730.726142038577,
+    "totalTokenAmount": -20392119185.798172,
+    "firstPurchaseTimestamp": 1682671955,
+    "count": 1
+  },
+  "0xb916d29516394c58b02ae1a32a9f58b02f643e4c": {
+    "totalAmountUSD": 2952.003251519253,
+    "totalTokenAmount": -10780000000,
+    "firstPurchaseTimestamp": 1682707811,
+    "count": 1
+  },
+  "0x2fe9d14a58f1e767ea22487dbf98797a45708bfe": {
+    "totalAmountUSD": 4848.513862860408,
+    "totalTokenAmount": -21017552158.76939,
+    "firstPurchaseTimestamp": 1682607791,
+    "count": 1
+  },
+  "0x6285b0727fdaf31cd1ba9fa8d5cddccb02fa5f6c": {
+    "totalAmountUSD": 4990.901996454939,
+    "totalTokenAmount": -19338658726.972515,
+    "firstPurchaseTimestamp": 1682642411,
+    "count": 1
+  },
+  "0x3c59f84ec32052dd215e78dccf592c1796d80c51": {
+    "totalAmountUSD": 4988.926818505778,
+    "totalTokenAmount": -19284496986.783596,
+    "firstPurchaseTimestamp": 1682620847,
+    "count": 1
+  },
+  "0xa1f003bc27a6a77c4899c6b1d10a7ecf3cac29f0": {
+    "totalAmountUSD": 7166.301301046146,
+    "totalTokenAmount": -28052259091.597588,
+    "firstPurchaseTimestamp": 1682689535,
+    "count": 1
+  },
+  "0xbf9fda32692b25c6083cbe48399ef019b62f0712": {
+    "totalAmountUSD": 5220.206157736669,
+    "totalTokenAmount": -16642283361.259775,
+    "firstPurchaseTimestamp": 1682715623,
+    "count": 1
+  },
+  "0x523dd1a4023e0be04813f8a30c2904769a26f039": {
+    "totalAmountUSD": 3359.464342262816,
+    "totalTokenAmount": -12537178144.773897,
+    "firstPurchaseTimestamp": 1682632907,
+    "count": 1
+  },
+  "0xc6d314bf95af715ea5eb31d9b505085fda597057": {
+    "totalAmountUSD": 2131.8705298052155,
+    "totalTokenAmount": -9011850591.728794,
+    "firstPurchaseTimestamp": 1682616503,
+    "count": 1
+  },
+  "0xa749f12e124790d45e62bcd3f7bf1d2218f2f21e": {
+    "totalAmountUSD": 2072.590024188223,
+    "totalTokenAmount": 8149870626.51568,
+    "firstPurchaseTimestamp": 1682694623,
+    "count": 1
+  },
+  "0xb0a1c31c8a70c087201ace668c81b24cb6c5e166": {
+    "totalAmountUSD": 4238.245697154424,
+    "totalTokenAmount": -17663724622.006767,
+    "firstPurchaseTimestamp": 1682591435,
+    "count": 1
+  },
+  "0x08bdbb4bd58875782c9aa1dad3b6e34dda72bdc6": {
+    "totalAmountUSD": 2000.763422661585,
+    "totalTokenAmount": -8439437761.287962,
+    "firstPurchaseTimestamp": 1682609327,
+    "count": 1
+  },
+  "0xe3226856a066638cf0d53dfc2de02a82717c57c2": {
+    "totalAmountUSD": 8433.073830402893,
+    "totalTokenAmount": 16479334501.653332,
+    "firstPurchaseTimestamp": 1682559671,
+    "count": 2
+  },
+  "0xe09283b2be9431b6c9d866ce1e1317f435d073e9": {
+    "totalAmountUSD": 7614.200969585447,
+    "totalTokenAmount": -31702714818.12081,
+    "firstPurchaseTimestamp": 1682616371,
+    "count": 1
+  },
+  "0x2e285e94843a620a01a2462ab4b19a17b0847ddf": {
+    "totalAmountUSD": 10519.548273619253,
+    "totalTokenAmount": -32235467546.240334,
+    "firstPurchaseTimestamp": 1682719559,
+    "count": 2
+  },
+  "0x2b23413c163262fbf6acd471e623574590b576f6": {
+    "totalAmountUSD": 13918.43193438779,
+    "totalTokenAmount": -51513738826.568405,
+    "firstPurchaseTimestamp": 1682630975,
+    "count": 3
+  },
+  "0x3c667eff9a9e987288a4bf3ef274bd17e076c100": {
+    "totalAmountUSD": 4994.29190372328,
+    "totalTokenAmount": -19416504112.618843,
+    "firstPurchaseTimestamp": 1682690399,
+    "count": 1
+  },
+  "0x9cf10b6a7be9739016dc2d3a3645d0f35e6e64dd": {
+    "totalAmountUSD": 2670.194057829211,
+    "totalTokenAmount": -10307034861.991173,
+    "firstPurchaseTimestamp": 1682618555,
+    "count": 1
+  },
+  "0xfdb807973f64571cff6c5a6029aa0617f1dcc495": {
+    "totalAmountUSD": 11021.402093896588,
+    "totalTokenAmount": -37220266444.96765,
+    "firstPurchaseTimestamp": 1682711291,
+    "count": 2
+  },
+  "0x01b26cf89df931927eba9d70d55c215d8053dbbc": {
+    "totalAmountUSD": 2069.404530027162,
+    "totalTokenAmount": -7008477468.78763,
+    "firstPurchaseTimestamp": 1682710991,
+    "count": 1
+  },
+  "0x0a474c5ad18d20441dc78f8e0f0731b3def9b54d": {
+    "totalAmountUSD": 4867.3881311368,
+    "totalTokenAmount": -18175138567.566406,
+    "firstPurchaseTimestamp": 1682653751,
+    "count": 1
+  },
+  "0x75aa653aecd94e754c2cb5cf63b5813475e5152d": {
+    "totalAmountUSD": 7623.667510434822,
+    "totalTokenAmount": -28454619219.724224,
+    "firstPurchaseTimestamp": 1682637035,
+    "count": 1
+  },
+  "0x34a6b04136be7792673d8bcbf115cdf8cb07d73e": {
+    "totalAmountUSD": 2657.8498816428146,
+    "totalTokenAmount": -8742330926.688354,
+    "firstPurchaseTimestamp": 1682713079,
+    "count": 1
+  },
+  "0xa331bab8231cdf93b1d8d510a7a5f61869f2e829": {
+    "totalAmountUSD": 2290.5355911232,
+    "totalTokenAmount": -8619507223.976902,
+    "firstPurchaseTimestamp": 1682653247,
+    "count": 1
+  },
+  "0x45ce41d74fcb6ca031f46c2e4b25214848a88222": {
+    "totalAmountUSD": 7634.487936614173,
+    "totalTokenAmount": -28658857700.40895,
+    "firstPurchaseTimestamp": 1682678087,
+    "count": 2
+  },
+  "0x4b1750893275e411a3adbc62d96a2e9649fc0f11": {
+    "totalAmountUSD": 4009.4631481179763,
+    "totalTokenAmount": -17012587109.998247,
+    "firstPurchaseTimestamp": 1682608427,
+    "count": 1
+  },
+  "0x3d7e23af8de6c01fd57a2c9b5fd1543004d9167f": {
+    "totalAmountUSD": 3474.4156631500373,
+    "totalTokenAmount": -14562053975.404655,
+    "firstPurchaseTimestamp": 1682584751,
+    "count": 1
+  },
+  "0x77d8d216380a532bd3238da63e3788e4150bced8": {
+    "totalAmountUSD": 5492.463770308629,
+    "totalTokenAmount": -21253717573.125534,
+    "firstPurchaseTimestamp": 1682642447,
+    "count": 1
+  },
+  "0xc8e3c78da14b940287d1752827680037be8b3dd5": {
+    "totalAmountUSD": 2917.5314041998818,
+    "totalTokenAmount": -12621717949.914217,
+    "firstPurchaseTimestamp": 1682616047,
+    "count": 1
+  },
+  "0xf3e4933dadb3c856ff44acf5cb98ea8d10d38672": {
+    "totalAmountUSD": 2488.0573230839855,
+    "totalTokenAmount": -10883176944.406687,
+    "firstPurchaseTimestamp": 1682574071,
+    "count": 1
+  },
+  "0xafd3289efdc9fd71389e4012b3bfc656484562dd": {
+    "totalAmountUSD": 5004.159656843498,
+    "totalTokenAmount": -16245942887.449652,
+    "firstPurchaseTimestamp": 1682714759,
+    "count": 1
+  },
+  "0xbec762335c9df7286729cc6344ea4f42e4959003": {
+    "totalAmountUSD": 7493.938951441346,
+    "totalTokenAmount": -31757887072.244038,
+    "firstPurchaseTimestamp": 1682611763,
+    "count": 1
+  },
+  "0x2b91f090832801d1d8d85c9855d57536c7f6660b": {
+    "totalAmountUSD": 29956.305704359933,
+    "totalTokenAmount": -89146722453.32047,
+    "firstPurchaseTimestamp": 1682720807,
+    "count": 1
+  },
+  "0x1c9d31413166cb137769385530c7ebe386723e58": {
+    "totalAmountUSD": 2292.109209268137,
+    "totalTokenAmount": -8300800555.651354,
+    "firstPurchaseTimestamp": 1682704787,
+    "count": 1
+  },
+  "0x525759e1a5df6c33ad04b875d1c7186e9a53da61": {
+    "totalAmountUSD": 2490.686001936075,
+    "totalTokenAmount": -9138357739.796667,
+    "firstPurchaseTimestamp": 1682660279,
+    "count": 1
+  }
+}
