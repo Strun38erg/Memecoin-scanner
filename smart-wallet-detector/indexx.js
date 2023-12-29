@@ -7,7 +7,7 @@ const apiURL = process.env.UNISWAP_API_URL;
 const etherscanApiKey = process.env.ETHERSCAN_API_KEY;
 
 // Timestamps for April 27, 2023 to April 29, 2023
-const startDateTimestamp = Math.floor(new Date('2023-04-27').getTime() / 1000);
+const startDateTimestamp = Math.floor(new Date('2023-04-01').getTime() / 1000);
 const endDateTimestamp = Math.floor(new Date('2023-04-29').getTime() / 1000);
 
 // Function to fetch swaps with pagination
@@ -16,7 +16,8 @@ async function fetchSwaps(skip = 0) {
         query MyQuery {
             swaps(
                 where: {
-                    amountUSD_gte: 2000,
+                    amount1_gt: 0,
+                    amountUSD_gte: 500,
                     token0: "0x6982508145454ce325ddbe47a25d4ec3d2311933",
                     timestamp_gte: ${startDateTimestamp},
                     timestamp_lte: ${endDateTimestamp}
@@ -30,6 +31,7 @@ async function fetchSwaps(skip = 0) {
                 sender
                 recipient
                 timestamp
+                id
             }
         }
     `;
@@ -93,81 +95,103 @@ function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// Function to calculate and display ETA
+function displayETA(totalBatches, currentBatch, startTime) {
+    const currentTime = new Date().getTime();
+    const elapsedTime = (currentTime - startTime) / 1000; // seconds
+    const averageTimePerBatch = elapsedTime / currentBatch;
+    const remainingBatches = totalBatches - currentBatch;
+    const remainingTime = averageTimePerBatch * remainingBatches; // in seconds
+
+    const remainingMinutes = Math.floor(remainingTime / 60);
+    const remainingSeconds = Math.floor(remainingTime % 60);
+
+    console.log(`ETA: ${remainingMinutes} minutes and ${remainingSeconds} seconds remaining`);
+}
+
 // Process and display data with filtering
 async function processAndDisplayData() {
-    let totalProcessedTxs = 0;  // Counter for the processed transactions
-    let skip = 0;
-    let allSwaps = [];
+  let totalProcessedTxs = 0;  // Counter for the processed transactions
+  let skip = 0;
+  let allSwaps = [];
 
-    // Fetch and process in batches
-    while (true) {
-        const swaps = await fetchSwaps(skip);
-        if (swaps.length === 0) break;
-        allSwaps = allSwaps.concat(swaps);
-        skip += swaps.length;
-    }
+  // Fetch and process in batches
+  while (true) {
+      const swaps = await fetchSwaps(skip);
+      if (swaps.length === 0) break;
+      allSwaps = allSwaps.concat(swaps);
+      skip += swaps.length;
+  }
 
-    let walletData = {};
-    const walletAddresses = Array.from(new Set(allSwaps.map(swap => swap.recipient)));
+  let walletData = {};
+  const walletAddresses = Array.from(new Set(allSwaps.map(swap => swap.recipient)));
+  const totalBatches = Math.ceil(walletAddresses.length / 4);
+  const startTime = new Date().getTime(); // Record start time
 
-    console.log(`Processing swaps with filtering... Total swaps found: ${allSwaps.length}`);
+  console.log(`Processing swaps with filtering... Total swaps found: ${allSwaps.length}`);
 
-    // Process in batches
-    const batchSize = 4; // corresponds to rate limit
-    for (let i = 0; i < walletAddresses.length; i += batchSize) {
-        const batch = walletAddresses.slice(i, i + batchSize);
-        try {
-            await Promise.all(batch.map(async (wallet) => {
-                try {
-                    const isContractAddress = await isContract(wallet);
-                    const hasTag = await hasPublicTag(wallet);
-                    if (!isContractAddress && !hasTag) {
-                        const txCount = await getTransactionCount(wallet);
-                        if (txCount <= 10000) { // Adjust this threshold as needed
-                            // Filter swaps based on recipient
-                            const walletSwaps = allSwaps.filter(swap => swap.recipient === wallet);
-                            walletSwaps.forEach(swap => {
-                                if (!walletData[wallet]) {
-                                    walletData[wallet] = { totalAmountUSD: 0, totalTokenAmount: 0, firstPurchaseTimestamp: Number.MAX_VALUE, count: 0 };
-                                }
-                                walletData[wallet].totalAmountUSD += parseFloat(swap.amountUSD);
-                                walletData[wallet].totalTokenAmount += parseFloat(swap.amount0);
-                                walletData[wallet].firstPurchaseTimestamp = Math.min(walletData[wallet].firstPurchaseTimestamp, swap.timestamp);
-                                walletData[wallet].count += 1;
-                                totalProcessedTxs += 1;  // Increment the processed transactions counter
-                            });
-                        } else {
-                            console.log(`Skipping wallet ${wallet} with ${txCount} transactions (more than threshold)`);
-                        }
-                    } else {
-                        console.log(`Skipping wallet ${wallet} (Contract: ${isContractAddress}, Has Public Tag: ${hasTag})`);
-                    }
-                } catch (batchError) {
-                    console.error(`Error processing wallet ${wallet}:`, batchError);
-                }
-            }));
-        } catch (batchError) {
-            console.error(`Error processing batch ${i / batchSize}:`, batchError);
-        }
+  // Process in batches
+  const batchSize = 4; // corresponds to rate limit
+  for (let i = 0; i < walletAddresses.length; i += batchSize) {
+      const batch = walletAddresses.slice(i, i + batchSize);
+      try {
+          await Promise.all(batch.map(async (wallet) => {
+              try {
+                  const isContractAddress = await isContract(wallet);
+                  const hasTag = await hasPublicTag(wallet);
+                  if (!isContractAddress && !hasTag) {
+                      const txCount = await getTransactionCount(wallet);
+                      if (txCount <= 10000) {
+                          const walletSwaps = allSwaps.filter(swap => swap.recipient === wallet);
+                          walletSwaps.forEach(swap => {
+                              if (!walletData[wallet]) {
+                                  walletData[wallet] = {
+                                      totalAmountUSD: 0,
+                                      totalTokenAmount: 0,
+                                      firstPurchaseTimestamp: Number.MAX_VALUE,
+                                      count: 0,
+                                      transactionIDs: [] // Initialize an array to store transaction IDs
+                                  };
+                              }
+                              walletData[wallet].totalAmountUSD += parseFloat(swap.amountUSD);
+                              walletData[wallet].totalTokenAmount += parseFloat(swap.amount0);
+                              walletData[wallet].firstPurchaseTimestamp = Math.min(walletData[wallet].firstPurchaseTimestamp, swap.timestamp);
+                              walletData[wallet].count += 1;
+                              walletData[wallet].transactionIDs.push(swap.id); // Add transaction ID to the array
+                              totalProcessedTxs += 1;
+                          });
+                      } else {
+                          console.log(`Skipping wallet ${wallet} with ${txCount} transactions (more than threshold)`);
+                      }
+                  } else {
+                      console.log(`Skipping wallet ${wallet} (Contract: ${isContractAddress}, Has Public Tag: ${hasTag})`);
+                  }
+              } catch (batchError) {
+                  console.error(`Error processing wallet ${wallet}:`, batchError);
+              }
+          }));
+      } catch (batchError) {
+          console.error(`Error processing batch ${i / batchSize}:`, batchError);
+      }
 
-        if (i + batchSize < walletAddresses.length) {
-            console.log(`Processed batch ${i/batchSize + 1}, waiting for next batch...`);
-            await delay(1000); // delay for 1 second (1000 milliseconds)
-        }
-    }
+      if (i + batchSize < walletAddresses.length) {
+          console.log(`Processed batch ${Math.ceil(i/batchSize) + 1} of ${totalBatches}`);
+          displayETA(totalBatches, Math.ceil(i/batchSize) + 1, startTime);
+          await delay(1000); // delay for 1 second (1000 milliseconds)
+      }
+  }
 
-    console.log("Finished processing. Saving data to walletData.json");
+  console.log("Finished processing. Saving data to walletData.json");
 
-    // Save to walletData.json
-    fs.writeFile('walletData.json', JSON.stringify(walletData, null, 2), err => {
-        if (err) {
-            console.error('Error saving data to walletData.json:', err);
-        } else {
-            console.log('Wallet data saved to walletData.json');
-        }
-    });
+  try {
+      const filePath = './walletData.json';
+      fs.writeFileSync(filePath, JSON.stringify(walletData, null, 2));
+      console.log(`Wallet data saved to ${filePath}`);
+  } catch (error) {
+      console.error('Error saving data to walletData.json:', error);
+  }
 
-    console.log(`Total processed transactions: ${totalProcessedTxs}`);  // Log the total processed transactions
+  console.log(`Total processed transactions: ${totalProcessedTxs}`);
 }
 
 // Run the main function
