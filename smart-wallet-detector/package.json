@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "alchemy-sdk": "^3.1.0",
     "axios": "^1.6.3",
+    "dotenv": "^16.3.1",
     "ethers": "^6.9.1",
     "node-fetch": "^2.7.0",
     "web3": "^4.3.0"
